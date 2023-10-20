@@ -1,8 +1,10 @@
 # Dependency directories
 node_modules/
 
+# Logs
+logs/
+
 # dotenv environment variable files
 .env
-
 
 .DS_Store
