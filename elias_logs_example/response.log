@@ -1,0 +1,5126 @@
+API Response:
+{
+  "id": "-MA1551S-odms4rVbJ8B",
+  "name": "No name",
+  "locked": false,
+  "shared": false,
+  "created": "2019-03-14T14:19:57.973Z",
+  "project": "-MA1551S-odms4rVbJ8A",
+  "rulesets": {},
+  "tabOrder": 0,
+  "gridColor": "#FFFFFF",
+  "tagsParams": {},
+  "clonedFroms": [
+    "-L_wZiz4GTTF3GFq_jSD"
+  ],
+  "description": "",
+  "sunDirection": {
+    "x": -0.4990133642141363,
+    "y": 0.5313952597646566,
+    "z": 0.6845471059286884
+  },
+  "childProjects": {},
+  "viewBookmarks": [],
+  "gridNotVisible": false,
+  "backgroundColor": "#999999",
+  "globalDepthScale": 1,
+  "wfsConfiguration": {},
+  "seabedTextureName": "",
+  "connectionAngleVisible": false,
+  "viewOnlies": {
+    "-MIIeS15P3gFMIAd8cBC": true
+  },
+  "stagedAssets": {
+    "-MA1551S-odms4rVbJ8D": {
+      "id": "-MA1551S-odms4rVbJ8D",
+      "name": "SSIV #1",
+      "tags": [],
+      "asset": {
+        "id": "-K5uq-UetI-GueOga-4k",
+        "name": "SSIV",
+        "params": {
+          "top": -1.422477,
+          "left": -2.966155,
+          "scale": 1,
+          "width": 5.9021,
+          "height": 2.7936
+        },
+        "shared": true,
+        "subType": "piping",
+        "category": "Valve",
+        "imageUrl": "https://storage.googleapis.com/ft-qa-master-bucket/assets/custom-library/generic/2D/242f7a7b72b8--K5uq-UetI-GueOga-4k.svg?GoogleAccessId=ft-qa-master-jsonapi%40fieldapp-qa.iam.gserviceaccount.com&Expires=1698310090&Signature=WD%2F8XrWnAdDRy3CAYU3yqFf80VTjbtpINaEbNgUhx1auYuWpeIStgL%2FUTVNIkCEGv078QfYBKzIp75Kvc%2FtrujcP0EuqkvYAPwogaMxgaHdrGFflLmY27%2FFPWojTVqVWR%2BkEPkyLrv5UuQZzX02tLnRQgrfxMue1JF1SbeHK%2Bxbqp1M3%2BtEdWAfNth7HWkYkKFqz%2FtlBJ%2FDvez7B9zXcLrdsdU7G8chWKaLytsUacCo%2Fzt666KA7XCoumWyW%2BRMfIXGFEzkiWhGKK6cHFOgCOQCisL1XhSvfRZXAKAFS07GLd3WDEDSVOOh4RJCOAxwiobfbPJ24Unsq5bSTKzDi%2Fw%3D%3D",
+        "sockets2d": [
+          {
+            "name": "a",
+            "x": -2.966111,
+            "y": 0.010651,
+            "z": 0.990768
+          },
+          {
+            "name": "b",
+            "x": 2.936002,
+            "y": 0.010636,
+            "z": 1.001537
+          }
+        ],
+        "model3dUrl": "https://storage.googleapis.com/ft-qa-master-bucket/assets/custom-library/generic/3D/99a79643ebfb--K5uq-UetI-GueOga-4k.json?GoogleAccessId=ft-qa-master-jsonapi%40fieldapp-qa.iam.gserviceaccount.com&Expires=1698310090&Signature=jpP5a4z2Et8bz481M3xcg1sQqUEa9%2F%2FZllbmkhOLcKOa0XgcjWKSkIyIpgcp%2F%2BDA0TG%2Bg%2BTzDPdUTDiOgwd1ls1R9dOalwxCNzVU1LeXxAGTPApNg9Mo%2Fr6LTe7SMs3ioZAZQIKB2xN%2B5ze3IeX4rnJWyxf%2BPMI2KubdYXjHroJJbFMBvRppxQUvRx2PU3Y9GnRJ98bIF8ONpFrR8%2FvVS%2FZr%2F020vNheQFDELyn8ypYpRaSxdhxkrD8qNPVmLPKVpQiKQf2Pvfl%2BDMSOSSTsQjy%2FaKyh9NlpPNhieuM5hiF69Q6b8yK33g0JpVUnlhWWgisEW2TVB3VsiNpovxxWUw%3D%3D",
+        "description": "",
+        "dockingMales": [],
+        "type": "structure"
+      },
+      "created": "2023-10-02T09:38:18.183Z",
+      "creator": "upgrade-script",
+      "virtual": false,
+      "visible": true,
+      "isLocked": false,
+      "textColor": "#FFF",
+      "costObject": {
+        "value": 0,
+        "locked": false,
+        "entries": [],
+        "currency": "USD",
+        "costPerDay": 0,
+        "costByLength": false,
+        "costPerLengthUnit": 1
+      },
+      "isInactive": false,
+      "subProject": "-MA1551S-odms4rVbJ8B",
+      "clonedFroms": [
+        "-La-LUCoP1AzdeLCDxpp"
+      ],
+      "hiddenLabel": false,
+      "renderOrder": 0,
+      "importParams": {},
+      "initialState": {
+        "x": 501989.53324675263,
+        "y": 6666545.214830206,
+        "scale": 1,
+        "width": 5.9021,
+        "height": 5.9021,
+        "rotation": 0,
+        "label-offset-x": 13.268749758601189,
+        "label-offset-y": 1.3968,
+        "z": -120.89483668726898
+      },
+      "showMetaInfo": false,
+      "customResults": {},
+      "isValidForCost": true,
+      "perAssetParams": {
+        "fontSize": 16
+      },
+      "showDescription": false,
+      "showCustomResults": false,
+      "havePerAssetSockets": false,
+      "wellmasterConfiguration": {},
+      "connectionsAsFrom": {
+        "-MA1551S-odms4rVbJ8f": true
+      },
+      "connectionsAsTo": {
+        "-MA1551S-odms4rVbJ8W": true
+      },
+      "shapes": {},
+      "metaData": [],
+      "sockets2d": [
+        {
+          "x": -2.966111,
+          "y": 0.010651,
+          "z": 0.990768,
+          "name": "a",
+          "metaData": []
+        },
+        {
+          "x": 2.936002,
+          "y": 0.010636,
+          "z": 1.001537,
+          "name": "b",
+          "metaData": []
+        }
+      ]
+    },
+    "-MA1551S-odms4rVbJ8E": {
+      "id": "-MA1551S-odms4rVbJ8E",
+      "name": "SSIV #2",
+      "tags": [],
+      "asset": {
+        "id": "-K5uq-UetI-GueOga-4k",
+        "name": "SSIV",
+        "params": {
+          "top": -1.422477,
+          "left": -2.966155,
+          "scale": 1,
+          "width": 5.9021,
+          "height": 2.7936
+        },
+        "shared": true,
+        "subType": "piping",
+        "category": "Valve",
+        "imageUrl": "https://storage.googleapis.com/ft-qa-master-bucket/assets/custom-library/generic/2D/242f7a7b72b8--K5uq-UetI-GueOga-4k.svg?GoogleAccessId=ft-qa-master-jsonapi%40fieldapp-qa.iam.gserviceaccount.com&Expires=1698310090&Signature=WD%2F8XrWnAdDRy3CAYU3yqFf80VTjbtpINaEbNgUhx1auYuWpeIStgL%2FUTVNIkCEGv078QfYBKzIp75Kvc%2FtrujcP0EuqkvYAPwogaMxgaHdrGFflLmY27%2FFPWojTVqVWR%2BkEPkyLrv5UuQZzX02tLnRQgrfxMue1JF1SbeHK%2Bxbqp1M3%2BtEdWAfNth7HWkYkKFqz%2FtlBJ%2FDvez7B9zXcLrdsdU7G8chWKaLytsUacCo%2Fzt666KA7XCoumWyW%2BRMfIXGFEzkiWhGKK6cHFOgCOQCisL1XhSvfRZXAKAFS07GLd3WDEDSVOOh4RJCOAxwiobfbPJ24Unsq5bSTKzDi%2Fw%3D%3D",
+        "sockets2d": [
+          {
+            "name": "a",
+            "x": -2.966111,
+            "y": 0.010651,
+            "z": 0.990768
+          },
+          {
+            "name": "b",
+            "x": 2.936002,
+            "y": 0.010636,
+            "z": 1.001537
+          }
+        ],
+        "model3dUrl": "https://storage.googleapis.com/ft-qa-master-bucket/assets/custom-library/generic/3D/99a79643ebfb--K5uq-UetI-GueOga-4k.json?GoogleAccessId=ft-qa-master-jsonapi%40fieldapp-qa.iam.gserviceaccount.com&Expires=1698310090&Signature=jpP5a4z2Et8bz481M3xcg1sQqUEa9%2F%2FZllbmkhOLcKOa0XgcjWKSkIyIpgcp%2F%2BDA0TG%2Bg%2BTzDPdUTDiOgwd1ls1R9dOalwxCNzVU1LeXxAGTPApNg9Mo%2Fr6LTe7SMs3ioZAZQIKB2xN%2B5ze3IeX4rnJWyxf%2BPMI2KubdYXjHroJJbFMBvRppxQUvRx2PU3Y9GnRJ98bIF8ONpFrR8%2FvVS%2FZr%2F020vNheQFDELyn8ypYpRaSxdhxkrD8qNPVmLPKVpQiKQf2Pvfl%2BDMSOSSTsQjy%2FaKyh9NlpPNhieuM5hiF69Q6b8yK33g0JpVUnlhWWgisEW2TVB3VsiNpovxxWUw%3D%3D",
+        "description": "",
+        "dockingMales": [],
+        "type": "structure"
+      },
+      "created": "2023-10-02T09:38:18.183Z",
+      "creator": "upgrade-script",
+      "virtual": false,
+      "visible": true,
+      "isLocked": false,
+      "textColor": "#FFF",
+      "costObject": {
+        "value": 0,
+        "locked": false,
+        "entries": [],
+        "currency": "USD",
+        "costPerDay": 0,
+        "costByLength": false,
+        "costPerLengthUnit": 1
+      },
+      "isInactive": false,
+      "subProject": "-MA1551S-odms4rVbJ8B",
+      "clonedFroms": [
+        "-La-d8nnDyfJH5mzaW4L"
+      ],
+      "hiddenLabel": false,
+      "renderOrder": 0,
+      "importParams": {},
+      "initialState": {
+        "x": 501763.271801784,
+        "y": 6666655.640209536,
+        "scale": 1,
+        "width": 5.9021,
+        "height": 5.9021,
+        "rotation": 93.6532764294318,
+        "z": -120.71437761426061
+      },
+      "showMetaInfo": false,
+      "customResults": {},
+      "isValidForCost": true,
+      "perAssetParams": {
+        "fontSize": 16
+      },
+      "showDescription": false,
+      "showCustomResults": false,
+      "havePerAssetSockets": false,
+      "wellmasterConfiguration": {},
+      "connectionsAsFrom": {
+        "-MA1551S-odms4rVbJ8W": true,
+        "-MA1551S-odms4rVbJ8n": true
+      },
+      "connectionsAsTo": {},
+      "shapes": {},
+      "metaData": [],
+      "sockets2d": [
+        {
+          "x": -2.966111,
+          "y": 0.010651,
+          "z": 0.990768,
+          "name": "a",
+          "metaData": []
+        },
+        {
+          "x": 2.936002,
+          "y": 0.010636,
+          "z": 1.001537,
+          "name": "b",
+          "metaData": []
+        }
+      ]
+    },
+    "-MA1551S-odms4rVbJ8F": {
+      "id": "-MA1551S-odms4rVbJ8F",
+      "name": "Manifold #1",
+      "tags": [],
+      "asset": {
+        "id": "-K5uq-URmQV-aH0-uBpF",
+        "name": "Manifold",
+        "params": {
+          "top": -8.024238700167967,
+          "left": -4.711310863494873,
+          "scale": 1,
+          "width": 9.156824111938477,
+          "height": 15.82449773438768,
+          "isGLTF": true,
+          "minimumSocketSize": 0.35
+        },
+        "shared": true,
+        "subType": "SPS",
+        "category": "Manifold",
+        "imageUrl": "https://storage.googleapis.com/ft-qa-master-bucket/assets/custom-library/generic/2D/9b3386d45609--K5uq-URmQV-aH0-uBpF.svg?GoogleAccessId=ft-qa-master-jsonapi%40fieldapp-qa.iam.gserviceaccount.com&Expires=1698310090&Signature=Xr3%2FEH5ocTWaP90jyZxJtpUfPDJMg4cjklbIqv%2BfocX4SoNJkPeIiL7u9%2FfpK1EvHa19djqoM2OvV%2FX5VC3EAeH%2FESwP6Hg5PgsFxrQRD8iwqxmep1tpitoJ5RIFj%2FN08TFB4p8qgkzsihlMpxf6SjbOhNpql3JLU0ghtgsKA9GMGpuoBAZCyVXHKWrZ22iCwCj%2FLRcG17o45Zij8abONNz%2FLWX1sT6PQ53TjqPu%2FEwAPVMI3DEBoTfdg%2FrY5yTQ%2B8nmW588JkHr4URa3l0fj2SiHee2vACysRJMwJgOk%2Bug0Io9fhj7fDSRFi9jr1ApBsp3qlpGMca8LBQ091xMFg%3D%3D",
+        "obsolete": false,
+        "sockets2d": [
+          {
+            "name": "e",
+            "x": -3.466668,
+            "y": -2.126078,
+            "z": 2.63429
+          },
+          {
+            "name": "f",
+            "x": -3.466668,
+            "y": -0.111887,
+            "z": 2.63429
+          },
+          {
+            "name": "g",
+            "x": -3.466668,
+            "y": 1.902296,
+            "z": 2.63429
+          },
+          {
+            "name": "a",
+            "x": -3.124539,
+            "y": -6.502216,
+            "z": 2.67631
+          },
+          {
+            "name": "b",
+            "x": -1.123239,
+            "y": -6.77882,
+            "z": 2.629751
+          },
+          {
+            "name": "c",
+            "x": 0.863026,
+            "y": -6.77863,
+            "z": 2.626393
+          },
+          {
+            "name": "d",
+            "x": 2.866288,
+            "y": -6.50012,
+            "z": 2.656032
+          },
+          {
+            "name": "h",
+            "x": 3.201769,
+            "y": -3.124756,
+            "z": 2.642102
+          },
+          {
+            "name": "i",
+            "x": 3.200848,
+            "y": -1.13484,
+            "z": 2.634963
+          },
+          {
+            "name": "j",
+            "x": 3.201574,
+            "y": 0.887059,
+            "z": 2.640652
+          },
+          {
+            "name": "k",
+            "x": 3.201499,
+            "y": 2.898176,
+            "z": 2.638084
+          },
+          {
+            "name": "o",
+            "x": 2.886434,
+            "y": 6.277004,
+            "z": 2.665269
+          },
+          {
+            "name": "n",
+            "x": 0.882757,
+            "y": 6.554781,
+            "z": 2.62981
+          },
+          {
+            "name": "m",
+            "x": -1.116748,
+            "y": 6.557262,
+            "z": 2.645335
+          },
+          {
+            "name": "l",
+            "x": -3.118234,
+            "y": 6.27638,
+            "z": 2.65849
+          }
+        ],
+        "filename3D": "Manifold_draco.glb - Thu, 08 Oct 2020 17:54:07 GMT",
+        "model3dUrl": "https://storage.googleapis.com/ft-qa-master-bucket/assets/custom-library/generic/3D/803be120c25c--K5uq-URmQV-aH0-uBpF.json?GoogleAccessId=ft-qa-master-jsonapi%40fieldapp-qa.iam.gserviceaccount.com&Expires=1698310090&Signature=UwSU4%2FwIe133lcoieYgAvJhpq0rJknqR170qffkCHdn%2BlD1OFCJr2cTnMfs0O3OgxlkN8blVuRevdRw%2BJNQu6e1sev1TLPfAQu2rX9TxibVsPhvcjiYmygi0oGCykTiRP4PJaRkNFYLGJ7g4inWyT%2FTXFH8vVZFpHgePc6dkHDh3yfkcMwXK90L6L7Oym%2BSNH3um2v5peX%2Bs8T33NTWnTcAMPy14R6uVwXMZnPmFFb1N7rLHglA8T2oytPehi%2F0EvnejsuUQUM6M2Ou5sX0POSK2vPedUgvSa3faO%2Fy5NfJlv6llTUky6NOWOoZv65%2F0Lynm1d6A%2Fz4EenzHbhX8AA%3D%3D",
+        "description": "",
+        "dockingMales": [],
+        "type": "structure"
+      },
+      "created": "2023-10-02T09:38:18.183Z",
+      "creator": "upgrade-script",
+      "virtual": false,
+      "visible": true,
+      "isLocked": false,
+      "textColor": "#FFF",
+      "costObject": {
+        "value": 44444444,
+        "locked": false,
+        "entries": [],
+        "currency": "USD",
+        "costPerDay": 0,
+        "costByLength": false,
+        "costPerLengthUnit": 1
+      },
+      "isInactive": false,
+      "subProject": "-MA1551S-odms4rVbJ8B",
+      "clonedFroms": [
+        "-La-dPgIAPmOFPeUC6p-"
+      ],
+      "hiddenLabel": false,
+      "renderOrder": 0,
+      "importParams": {},
+      "initialState": {
+        "x": 501907.0219366923,
+        "y": 6666585.238652367,
+        "scale": 1,
+        "width": 9.157,
+        "height": 9.157,
+        "rotation": 35.682765578354406,
+        "z": -120.76768697594784
+      },
+      "showMetaInfo": false,
+      "customResults": {},
+      "isValidForCost": true,
+      "perAssetParams": {
+        "fontSize": 16
+      },
+      "showDescription": false,
+      "showCustomResults": false,
+      "havePerAssetSockets": false,
+      "wellmasterConfiguration": {},
+      "connectionsAsFrom": {
+        "-MA1551S-odms4rVbJ8j": true
+      },
+      "connectionsAsTo": {
+        "-MA1551S-odms4rVbJ8X": true
+      },
+      "shapes": {},
+      "metaData": [],
+      "sockets2d": [
+        {
+          "x": -3.466668,
+          "y": -2.126078,
+          "z": 2.63429,
+          "name": "e",
+          "metaData": []
+        },
+        {
+          "x": -3.466668,
+          "y": -0.111887,
+          "z": 2.63429,
+          "name": "f",
+          "metaData": []
+        },
+        {
+          "x": -3.466668,
+          "y": 1.902296,
+          "z": 2.63429,
+          "name": "g",
+          "metaData": []
+        },
+        {
+          "x": -3.124539,
+          "y": -6.502216,
+          "z": 2.67631,
+          "name": "a",
+          "metaData": []
+        },
+        {
+          "x": -1.123239,
+          "y": -6.77882,
+          "z": 2.629751,
+          "name": "b",
+          "metaData": []
+        },
+        {
+          "x": 0.863026,
+          "y": -6.77863,
+          "z": 2.626393,
+          "name": "c",
+          "metaData": []
+        },
+        {
+          "x": 2.866288,
+          "y": -6.50012,
+          "z": 2.656032,
+          "name": "d",
+          "metaData": []
+        },
+        {
+          "x": 3.201769,
+          "y": -3.124756,
+          "z": 2.642102,
+          "name": "h",
+          "metaData": []
+        },
+        {
+          "x": 3.200848,
+          "y": -1.13484,
+          "z": 2.634963,
+          "name": "i",
+          "metaData": []
+        },
+        {
+          "x": 3.201574,
+          "y": 0.887059,
+          "z": 2.640652,
+          "name": "j",
+          "metaData": []
+        },
+        {
+          "x": 3.201499,
+          "y": 2.898176,
+          "z": 2.638084,
+          "name": "k",
+          "metaData": []
+        },
+        {
+          "x": 2.886434,
+          "y": 6.277004,
+          "z": 2.665269,
+          "name": "o",
+          "metaData": []
+        },
+        {
+          "x": 0.882757,
+          "y": 6.554781,
+          "z": 2.62981,
+          "name": "n",
+          "metaData": []
+        },
+        {
+          "x": -1.116748,
+          "y": 6.557262,
+          "z": 2.645335,
+          "name": "m",
+          "metaData": []
+        },
+        {
+          "x": -3.118234,
+          "y": 6.27638,
+          "z": 2.65849,
+          "name": "l",
+          "metaData": []
+        }
+      ]
+    },
+    "-MA1551S-odms4rVbJ8G": {
+      "id": "-MA1551S-odms4rVbJ8G",
+      "name": "PLET double #1",
+      "tags": [],
+      "asset": {
+        "id": "-K5uq-UbbK1F_K1V3COn",
+        "name": "PLET double",
+        "params": {
+          "top": -3.9968163516118564,
+          "left": -1.266456961631775,
+          "scale": 1,
+          "width": 2.5227878093719482,
+          "height": 7.170224700502899,
+          "isGLTF": true,
+          "minimumSocketSize": 0.25
+        },
+        "shared": true,
+        "subType": "piping",
+        "category": "Pipeline and Pipeline Assets",
+        "imageUrl": "https://storage.googleapis.com/ft-qa-master-bucket/assets/custom-library/generic/2D/5637e08c39ec--K5uq-UbbK1F_K1V3COn.svg?GoogleAccessId=ft-qa-master-jsonapi%40fieldapp-qa.iam.gserviceaccount.com&Expires=1698310090&Signature=o6RHX%2BHuFRM6OowXOFCeuzF0nHu122FJxManR24MAc2BJHsdMAOXNUoehbm9y7PWMIBwO%2FCmh7ZvtIzW9P9T18thqX8prKtbnVBeJFtvG0rXriDkAl15AFEtsi9TsVSCupm%2BgrXcqjIhSPMrXjgGqGd20oWeaeMQJre0mS9lcMiLZ7o%2B%2FOgUPA0m2jm76e2pBC%2BsoadKzRlmB0Yol8tUFTztsdF10zJm0RM3RnA27xq3qkLH8wR8H40ObWS0FAWfcbT0FmdkTdaosNv9BLMWbvB0z4cBvpBHmbLFFQ427rj%2BKS%2B%2Fvip8Iq9k%2B3UpEvhnpA1SuTCLxuk8wIa3u37bNg%3D%3D",
+        "sockets2d": [
+          {
+            "name": "b",
+            "x": 0.47407,
+            "y": 3.077799,
+            "z": 0.5135
+          },
+          {
+            "name": "a",
+            "x": 0.000255,
+            "y": -3.892426,
+            "z": 0.513496
+          },
+          {
+            "name": "c",
+            "x": -0.475962,
+            "y": 3.077799,
+            "z": 0.5135
+          }
+        ],
+        "filename2D": "PLET_Double.svg - Thu, 08 Oct 2020 12:11:54 GMT",
+        "filename3D": "PLET_Double_draco.glb - Thu, 08 Oct 2020 11:35:02 GMT",
+        "model3dUrl": "https://storage.googleapis.com/ft-qa-master-bucket/assets/custom-library/generic/3D/ac3ca73c0666--K5uq-UbbK1F_K1V3COn.json?GoogleAccessId=ft-qa-master-jsonapi%40fieldapp-qa.iam.gserviceaccount.com&Expires=1698310090&Signature=Fqt8oMStUnNx4jw1ARTKoRdNmeKDujcZ8DcdRZId%2BjSWujlFR0B1sYCJYwAzjhrUzPdK6sUrURk1WHNu8ja3xijc%2B527fYeWo5fJaIMw2UW7ryNNNTZekVOiVXUfKtfwLbNEF7hwZKI9rJcVHtl6veMqCrEAfNhVu5Ekt%2BPcpIGdozMUTzQm%2BcL3XHyNCUg3DIEuujYM2G8EFFJCChcd2%2F8e6Upw1FFouicqPhg8mScFfi57U80TGIm1%2BELXlBEjPd77EyAQj993j%2Bhh1cRqCO6TXxXkqJUiODNTWwt0e8RIYYQXY5WxSpExc0EQIzLJ6QeBvJ5mQhNiBIeBx2FQOg%3D%3D",
+        "description": "",
+        "dockingMales": [],
+        "type": "structure"
+      },
+      "created": "2023-10-02T09:38:18.183Z",
+      "creator": "upgrade-script",
+      "virtual": false,
+      "visible": true,
+      "isLocked": false,
+      "textColor": "#FFF",
+      "costObject": {
+        "value": 0,
+        "locked": false,
+        "entries": [],
+        "currency": "USD",
+        "costPerDay": 0,
+        "costByLength": false,
+        "costPerLengthUnit": 1
+      },
+      "isInactive": false,
+      "subProject": "-MA1551S-odms4rVbJ8B",
+      "clonedFroms": [
+        "-La-dTmI546rG3F7hEFo"
+      ],
+      "hiddenLabel": false,
+      "renderOrder": 0,
+      "importParams": {},
+      "initialState": {
+        "x": 501915.4469985372,
+        "y": 6666646.916614962,
+        "scale": 1,
+        "width": 2.5228,
+        "height": 2.5228,
+        "rotation": 0,
+        "z": -120.87565278908845
+      },
+      "showMetaInfo": false,
+      "customResults": {},
+      "isValidForCost": true,
+      "perAssetParams": {
+        "fontSize": 16
+      },
+      "showDescription": false,
+      "showCustomResults": false,
+      "havePerAssetSockets": false,
+      "wellmasterConfiguration": {},
+      "connectionsAsFrom": {
+        "-MA1551S-odms4rVbJ8X": true
+      },
+      "connectionsAsTo": {
+        "-MA1551S-odms4rVbJ8Y": true
+      },
+      "shapes": {},
+      "metaData": [],
+      "sockets2d": [
+        {
+          "x": 0.47407,
+          "y": 3.077799,
+          "z": 0.5135,
+          "name": "b",
+          "metaData": []
+        },
+        {
+          "x": 0.000255,
+          "y": -3.892426,
+          "z": 0.513496,
+          "name": "a",
+          "metaData": []
+        },
+        {
+          "x": -0.475962,
+          "y": 3.077799,
+          "z": 0.5135,
+          "name": "c",
+          "metaData": []
+        }
+      ]
+    },
+    "-MA1551S-odms4rVbJ8H": {
+      "id": "-MA1551S-odms4rVbJ8H",
+      "name": "Inline-T #1",
+      "tags": [],
+      "asset": {
+        "id": "-K5uq-UM-_005a2a7l8i",
+        "name": "Inline-T",
+        "params": {
+          "top": -5.027855373417855,
+          "left": -0.8835904464758089,
+          "scale": 1,
+          "width": 1.5820387770196231,
+          "height": 9.318247807086236,
+          "isGLTF": true,
+          "minimumSocketSize": 0.25
+        },
+        "shared": true,
+        "subType": "piping",
+        "category": "Valve",
+        "imageUrl": "https://storage.googleapis.com/ft-qa-master-bucket/assets/custom-library/generic/2D/cc53d5829bdd--K5uq-UM-_005a2a7l8i.svg?GoogleAccessId=ft-qa-master-jsonapi%40fieldapp-qa.iam.gserviceaccount.com&Expires=1698310090&Signature=c3pKgKy6OZGy1OuP0bPsiidB%2BvpU2BRKKL4a%2BrLYlzB%2B5EfulqFhaqvo%2FkQ9ghJI%2BxhPoCRssJ7xhkZLE7CJRii2YmRYhAUtvnAP2qPMlk3MAAttjWYJh5%2BzHbCxEq56RnxIgHS7Z%2BsD%2Fk33i7WlQX7%2B6%2BTP35p6OiWvN4QIkuoJfP2Y3kbkCtn%2BtFvjbvAnN9DkX27WhdDxQXPg3MQZnFNfmX3C%2BXNN32PVeK6YpF9pmPfU%2F0%2FBu97mQhd9hr5aIlpC1WaVirDVlhGOSgx43kZof3qauhdSccUHELcL6lyCLo07%2BUzoI0OFvNQMQx%2FQ5lc4R8lEjnU2S2RzqMm4eg%3D%3D",
+        "sockets2d": [
+          {
+            "name": "a",
+            "x": -0.024705,
+            "y": -4.825774,
+            "z": 0.254057
+          },
+          {
+            "name": "c",
+            "x": -0.030112,
+            "y": 4.620347,
+            "z": 0.260889
+          },
+          {
+            "name": "b",
+            "x": -0.028493,
+            "y": 1.910118,
+            "z": 1.422113
+          }
+        ],
+        "filename3D": "Inline-T_draco.glb - Thu, 08 Oct 2020 09:27:17 GMT",
+        "model3dUrl": "https://storage.googleapis.com/ft-qa-master-bucket/assets/custom-library/generic/3D/c21054ed259c--K5uq-UM-_005a2a7l8i.json?GoogleAccessId=ft-qa-master-jsonapi%40fieldapp-qa.iam.gserviceaccount.com&Expires=1698310090&Signature=sZndTiJaPB4bNHTPbhsPROECGOrUKDpEJ9oyNusWzQVAKtq49Tif%2B9Zt75U2N4fzRdF96KvqbWMb0eg8RvsoBtkgilPSJE1gPOdf2UC3PyuqOcm8t5Fp7Gj5w8iXnLUEL08ntoVwyNx3NGEPjm83PE%2FnEeQeXi%2BY66m%2FhI9YW0ERmyKIPWGhPbu42i10EFo7BCNifmqG0eH3aWRVRbcEH6SBXmFu1OpFTNz5fL0T6X72kSeyfgD0jju2TU06YOAxIym4a9cNoWxquTERPwPc%2BYSpOwN30Mq1UE0yNnCAIclpsYMCUiKzSEuRmSnkYLIlH%2BoN0aTIWw8tMERJaoRINg%3D%3D",
+        "description": "",
+        "dockingMales": [],
+        "filenameSockets": "Inline-T.sockets - Wed, 14 Oct 2020 18:28:45 GMT",
+        "type": "structure"
+      },
+      "created": "2023-10-02T09:38:18.183Z",
+      "creator": "upgrade-script",
+      "virtual": false,
+      "visible": true,
+      "isLocked": false,
+      "textColor": "#FFF",
+      "costObject": {
+        "value": 0,
+        "locked": false,
+        "entries": [],
+        "currency": "USD",
+        "costPerDay": 0,
+        "costByLength": false,
+        "costPerLengthUnit": 1
+      },
+      "isInactive": false,
+      "subProject": "-MA1551S-odms4rVbJ8B",
+      "clonedFroms": [
+        "-La-d_fAI4QB1bdadMnq"
+      ],
+      "hiddenLabel": false,
+      "renderOrder": 0,
+      "importParams": {},
+      "initialState": {
+        "x": 501944.76064134453,
+        "y": 6666740.899533786,
+        "scale": 1,
+        "width": 1.582,
+        "height": 1.582,
+        "rotation": 0,
+        "z": -121.09216743297564
+      },
+      "showMetaInfo": false,
+      "customResults": {},
+      "isValidForCost": true,
+      "perAssetParams": {
+        "fontSize": 16
+      },
+      "showDescription": false,
+      "showCustomResults": false,
+      "havePerAssetSockets": false,
+      "wellmasterConfiguration": {},
+      "connectionsAsFrom": {
+        "-MA1551S-odms4rVbJ8Y": true,
+        "-MA1551S-odms4rVbJ8Z": true
+      },
+      "connectionsAsTo": {
+        "-MA1551S-odms4rVbJ8i": true
+      },
+      "shapes": {},
+      "metaData": [],
+      "sockets2d": [
+        {
+          "x": -0.024705,
+          "y": -4.825774,
+          "z": 0.254057,
+          "name": "a",
+          "metaData": []
+        },
+        {
+          "x": -0.030112,
+          "y": 4.620347,
+          "z": 0.260889,
+          "name": "c",
+          "metaData": []
+        },
+        {
+          "x": -0.028493,
+          "y": 1.910118,
+          "z": 1.422113,
+          "name": "b",
+          "metaData": []
+        }
+      ]
+    },
+    "-MA1551S-odms4rVbJ8I": {
+      "id": "-MA1551S-odms4rVbJ8I",
+      "name": "SSIV #3",
+      "tags": [],
+      "asset": {
+        "id": "-K5uq-UetI-GueOga-4k",
+        "name": "SSIV",
+        "params": {
+          "top": -1.422477,
+          "left": -2.966155,
+          "scale": 1,
+          "width": 5.9021,
+          "height": 2.7936
+        },
+        "shared": true,
+        "subType": "piping",
+        "category": "Valve",
+        "imageUrl": "https://storage.googleapis.com/ft-qa-master-bucket/assets/custom-library/generic/2D/242f7a7b72b8--K5uq-UetI-GueOga-4k.svg?GoogleAccessId=ft-qa-master-jsonapi%40fieldapp-qa.iam.gserviceaccount.com&Expires=1698310090&Signature=WD%2F8XrWnAdDRy3CAYU3yqFf80VTjbtpINaEbNgUhx1auYuWpeIStgL%2FUTVNIkCEGv078QfYBKzIp75Kvc%2FtrujcP0EuqkvYAPwogaMxgaHdrGFflLmY27%2FFPWojTVqVWR%2BkEPkyLrv5UuQZzX02tLnRQgrfxMue1JF1SbeHK%2Bxbqp1M3%2BtEdWAfNth7HWkYkKFqz%2FtlBJ%2FDvez7B9zXcLrdsdU7G8chWKaLytsUacCo%2Fzt666KA7XCoumWyW%2BRMfIXGFEzkiWhGKK6cHFOgCOQCisL1XhSvfRZXAKAFS07GLd3WDEDSVOOh4RJCOAxwiobfbPJ24Unsq5bSTKzDi%2Fw%3D%3D",
+        "sockets2d": [
+          {
+            "name": "a",
+            "x": -2.966111,
+            "y": 0.010651,
+            "z": 0.990768
+          },
+          {
+            "name": "b",
+            "x": 2.936002,
+            "y": 0.010636,
+            "z": 1.001537
+          }
+        ],
+        "model3dUrl": "https://storage.googleapis.com/ft-qa-master-bucket/assets/custom-library/generic/3D/99a79643ebfb--K5uq-UetI-GueOga-4k.json?GoogleAccessId=ft-qa-master-jsonapi%40fieldapp-qa.iam.gserviceaccount.com&Expires=1698310090&Signature=jpP5a4z2Et8bz481M3xcg1sQqUEa9%2F%2FZllbmkhOLcKOa0XgcjWKSkIyIpgcp%2F%2BDA0TG%2Bg%2BTzDPdUTDiOgwd1ls1R9dOalwxCNzVU1LeXxAGTPApNg9Mo%2Fr6LTe7SMs3ioZAZQIKB2xN%2B5ze3IeX4rnJWyxf%2BPMI2KubdYXjHroJJbFMBvRppxQUvRx2PU3Y9GnRJ98bIF8ONpFrR8%2FvVS%2FZr%2F020vNheQFDELyn8ypYpRaSxdhxkrD8qNPVmLPKVpQiKQf2Pvfl%2BDMSOSSTsQjy%2FaKyh9NlpPNhieuM5hiF69Q6b8yK33g0JpVUnlhWWgisEW2TVB3VsiNpovxxWUw%3D%3D",
+        "description": "",
+        "dockingMales": [],
+        "type": "structure"
+      },
+      "created": "2023-10-02T09:38:18.183Z",
+      "creator": "upgrade-script",
+      "virtual": false,
+      "visible": true,
+      "isLocked": false,
+      "textColor": "#FFF",
+      "costObject": {
+        "value": 0,
+        "locked": false,
+        "entries": [],
+        "currency": "USD",
+        "costPerDay": 0,
+        "costByLength": false,
+        "costPerLengthUnit": 1
+      },
+      "isInactive": false,
+      "subProject": "-MA1551S-odms4rVbJ8B",
+      "clonedFroms": [
+        "-La-dnCQV8KgHOfBnHEc"
+      ],
+      "hiddenLabel": false,
+      "renderOrder": 0,
+      "importParams": {},
+      "initialState": {
+        "x": 501762.83082439797,
+        "y": 6666710.577850925,
+        "scale": 1,
+        "width": 5.9021,
+        "height": 5.9021,
+        "rotation": 177.53946355922847,
+        "z": -120.79939072400117
+      },
+      "showMetaInfo": false,
+      "customResults": {},
+      "isValidForCost": true,
+      "perAssetParams": {
+        "fontSize": 16
+      },
+      "showDescription": false,
+      "showCustomResults": false,
+      "havePerAssetSockets": false,
+      "wellmasterConfiguration": {},
+      "connectionsAsFrom": {},
+      "connectionsAsTo": {
+        "-MA1551S-odms4rVbJ8Z": true,
+        "-MA1551S-odms4rVbJ8m": true
+      },
+      "shapes": {},
+      "metaData": [],
+      "sockets2d": [
+        {
+          "x": -2.966111,
+          "y": 0.010651,
+          "z": 0.990768,
+          "name": "a",
+          "metaData": []
+        },
+        {
+          "x": 2.936002,
+          "y": 0.010636,
+          "z": 1.001537,
+          "name": "b",
+          "metaData": []
+        }
+      ]
+    },
+    "-MA1551S-odms4rVbJ8J": {
+      "id": "-MA1551S-odms4rVbJ8J",
+      "name": "Pump #1",
+      "tags": [],
+      "asset": {
+        "id": "-K5uq-UwVB4bmgUC3Z_G",
+        "name": "Pump",
+        "params": {
+          "top": -6.862604920604721,
+          "left": -7.175561904907227,
+          "scale": 1,
+          "width": 13.213980674743652,
+          "height": 16.22579960696683,
+          "isGLTF": true
+        },
+        "shared": true,
+        "subType": "SPP",
+        "category": "Subsea Processing",
+        "imageUrl": "https://storage.googleapis.com/ft-qa-master-bucket/assets/custom-library/generic/2D/846181b5bb03--K5uq-UwVB4bmgUC3Z_G.svg?GoogleAccessId=ft-qa-master-jsonapi%40fieldapp-qa.iam.gserviceaccount.com&Expires=1698310090&Signature=CWFcw%2FeoJqGtN9mVfzxDOLmI0%2F227Ab4vHKgDEywYlPvchDMaJIvpcAMIJkNhYraXXHQ4cWTB4tsP8gB4X13bLMe6VUDDklLwldO6s4sqluL3i0LUOhsOxk2WkfWzNptbZBg7Y0jD8PYNSW1z7XApNk%2B2zeOLrPlBoI5unbZq%2Bs3oYGDGxuibpoYq7fF3cMZ0P%2Fl%2FF3KL5Q0x3mM5178xoonBufPrxdiPKmzyi9IYhqMPCThX68c09wMRYsc8NloOUms03g53i8nQomNJWOx3qBBPdPTGmDutqb8fs9Bez4vqZEU3ENnoILrZyca7eTfZ0PRSIlRCBVB%2B96G1pylmw%3D%3D",
+        "sockets2d": [
+          {
+            "name": "a",
+            "x": 4.629144,
+            "y": 2.026376,
+            "z": 2.546822
+          },
+          {
+            "name": "b",
+            "x": 4.629377,
+            "y": -0.176723,
+            "z": 2.546822
+          },
+          {
+            "name": "c",
+            "x": 4.629144,
+            "y": -2.302128,
+            "z": 2.546822
+          },
+          {
+            "name": "d",
+            "x": -5.825221,
+            "y": -2.302128,
+            "z": 2.546822
+          }
+        ],
+        "filename3D": "Pump_draco.glb - Fri, 16 Oct 2020 10:37:52 GMT",
+        "model3dUrl": "https://storage.googleapis.com/ft-qa-master-bucket/assets/custom-library/generic/3D/357c471b596f--K5uq-UwVB4bmgUC3Z_G.json?GoogleAccessId=ft-qa-master-jsonapi%40fieldapp-qa.iam.gserviceaccount.com&Expires=1698310090&Signature=PV2PAxZ7bW%2B507nCUiiA1ZnKeZk4lf1Wf2BiDqWJkjvKA95vVNWXXI5WdzYTyX9CXkFjUUA2rQ4F92owwWuE6%2BSi4yeIOf9fzPWcI22iDQDuEV5baNKnEi6dpQC%2BvT5O4TLYRzvjcjgkvdOd%2BS6TxUDOc0f8y3gNQ1hTKSuVHYZTkwiyzZ2QYaQogGFYJGQKp%2BMHzU2HBp2qHai%2FUErwTghj0xYaAhZ8p11rh6lNa12TiBObXXjdpFwsIfz7YnTZwdGcgv7jYWWeDBz74pHbb6lVJSSDo46sHw7xGov0Enlk%2FJuK2DHFGosORxDgmT0pDyMfQ47%2Flw42fu3okWO%2BsQ%3D%3D",
+        "description": "",
+        "dockingMales": [],
+        "type": "structure"
+      },
+      "created": "2023-10-02T09:38:18.183Z",
+      "creator": "upgrade-script",
+      "virtual": false,
+      "visible": true,
+      "isLocked": false,
+      "textColor": "#FFF",
+      "costObject": {
+        "value": 0,
+        "locked": false,
+        "entries": [],
+        "currency": "USD",
+        "costPerDay": 0,
+        "costByLength": false,
+        "costPerLengthUnit": 1
+      },
+      "isInactive": false,
+      "subProject": "-MA1551S-odms4rVbJ8B",
+      "clonedFroms": [
+        "-La-drEfA21bnUCwxtGG"
+      ],
+      "hiddenLabel": false,
+      "renderOrder": 0,
+      "importParams": {},
+      "initialState": {
+        "x": 501771.4412401829,
+        "y": 6666604.647990843,
+        "scale": 1,
+        "width": 13.2139,
+        "height": 13.2139,
+        "rotation": 0,
+        "z": -120.64426333603421
+      },
+      "showMetaInfo": false,
+      "customResults": {},
+      "isValidForCost": true,
+      "perAssetParams": {
+        "fontSize": 16
+      },
+      "showDescription": false,
+      "showCustomResults": false,
+      "havePerAssetSockets": false,
+      "wellmasterConfiguration": {},
+      "connectionsAsFrom": {},
+      "connectionsAsTo": {
+        "-MA1551S-odms4rVbJ8j": true
+      },
+      "shapes": {},
+      "metaData": [],
+      "sockets2d": [
+        {
+          "x": 4.629144,
+          "y": 2.026376,
+          "z": 2.546822,
+          "name": "a",
+          "metaData": []
+        },
+        {
+          "x": 4.629377,
+          "y": -0.176723,
+          "z": 2.546822,
+          "name": "b",
+          "metaData": []
+        },
+        {
+          "x": 4.629144,
+          "y": -2.302128,
+          "z": 2.546822,
+          "name": "c",
+          "metaData": []
+        },
+        {
+          "x": -5.825221,
+          "y": -2.302128,
+          "z": 2.546822,
+          "name": "d",
+          "metaData": []
+        }
+      ]
+    },
+    "-MA1551S-odms4rVbJ8K": {
+      "id": "-MA1551S-odms4rVbJ8K",
+      "name": "Jacket-rig #1",
+      "tags": [],
+      "asset": {
+        "id": "-K5uq-U_28ei5qaaxL8L",
+        "name": "Jacket-rig",
+        "params": {
+          "scale": 1,
+          "width": 111.6259,
+          "height": 168.8918
+        },
+        "shared": true,
+        "subType": "Host",
+        "category": "Hosts",
+        "imageUrl": "https://storage.googleapis.com/ft-qa-master-bucket/assets/custom-library/generic/2D/7f47e62bd0bd--K5uq-U_28ei5qaaxL8L.svg?GoogleAccessId=ft-qa-master-jsonapi%40fieldapp-qa.iam.gserviceaccount.com&Expires=1698310090&Signature=XMz6mvO90xQrTbmeW01CwwSMq%2FI0B5FhKcJcSNqeZP1M55ynnH1kJiYO1j1eKkElPS9AkGudnVDR5I0QSIWNh6cdruNeCf5dKnt0CbXwUGdT4gT4KPjaOL6ocPUzZqRbZH3k%2FpK4%2FJnEYd7OpcnIZvIKRjp%2FhrRNk4Wf8YBxB%2FvkqhN9xJjPmvJwy3DovM%2FrMWOX8GrP4q1HBq3VOGqwQy7AM0tNez3OMKEI14L%2Fsxad6tjqAYWbV2SLudJRvyUjO2hOq92lFfpyuBxRtgytbp3cInndawtWc9zohhAOz4mM0pMUB6XG4hN1qyiYWFHj2Wi3yj0o5elfEoE1FCNfMg%3D%3D",
+        "obsolete": false,
+        "sockets2d": [
+          {
+            "name": "a",
+            "x": 22.32518,
+            "y": 19.70404333333333
+          }
+        ],
+        "model3dUrl": "https://storage.googleapis.com/ft-qa-master-bucket/assets/custom-library/generic/3D/ee516307cf74--K5uq-U_28ei5qaaxL8L.json?GoogleAccessId=ft-qa-master-jsonapi%40fieldapp-qa.iam.gserviceaccount.com&Expires=1698310090&Signature=O8w2nXlZE5Ic0agXdSVILcGfno%2BMxC03ygEPZzLIuXM8p3EcSGHGHnXDkMAtFFX5h90A4GN9Ubex4l3xUEsCTfRt3V%2BLpLI%2Fa2TlrCX3MxDjEzKj1cbdWucMpnx5MbRzIbfTuyB8fHvZ6MR6ijmvwR%2FYtllL7a0tR9ogaXBcsDq0RoeBcvyCwM281S4NIzoQVrQIikytZ%2BAtiSW0itbEn7%2F9IIVE94U%2BLt7e1X36gO%2BgCEyIZj30lm9u%2FxPb%2FeEBjnbuAT86nVTV7htb5bsGdHyAXNogovHmNeYwgQnwRPtLhKBnFt8NWVEZeDpHGni%2BCTr4z3B10OQUC7osHd3seA%3D%3D",
+        "description": "",
+        "dockingMales": [],
+        "type": "structure"
+      },
+      "created": "2023-10-02T09:38:18.183Z",
+      "creator": "upgrade-script",
+      "virtual": false,
+      "visible": true,
+      "isLocked": false,
+      "textColor": "#FFF",
+      "costObject": {
+        "value": 0,
+        "locked": false,
+        "entries": [],
+        "currency": "USD",
+        "costPerDay": 0,
+        "costByLength": false,
+        "costPerLengthUnit": 1
+      },
+      "isInactive": false,
+      "subProject": "-MA1551S-odms4rVbJ8B",
+      "clonedFroms": [
+        "-La-e1AY-wzHTmVgqYcl"
+      ],
+      "hiddenLabel": false,
+      "renderOrder": 0,
+      "importParams": {},
+      "initialState": {
+        "x": 501667.680881822,
+        "y": 6666781.564179641,
+        "scale": 1,
+        "width": 111.6259,
+        "height": 111.6259,
+        "opacity": 1,
+        "rotation": 52.76183931425987,
+        "z": -120.80206355428774
+      },
+      "showMetaInfo": false,
+      "customResults": {},
+      "isValidForCost": true,
+      "perAssetParams": {
+        "fontSize": 16
+      },
+      "showDescription": false,
+      "showCustomResults": false,
+      "havePerAssetSockets": true,
+      "wellmasterConfiguration": {},
+      "connectionsAsFrom": {
+        "-MA1551S-odms4rVbJ8m": true
+      },
+      "connectionsAsTo": {
+        "-MA1551S-odms4rVbJ8n": true
+      },
+      "shapes": {},
+      "metaData": [],
+      "sockets2d": [
+        {
+          "x": 22.32518,
+          "y": 19.70404333333333,
+          "name": "a",
+          "types": [],
+          "metaData": []
+        },
+        {
+          "x": 23.188539372307915,
+          "y": 8.459861827528497,
+          "z": 0,
+          "name": "b",
+          "types": [],
+          "metaData": []
+        }
+      ]
+    },
+    "-MA1551S-odms4rVbJ8L": {
+      "id": "-MA1551S-odms4rVbJ8L",
+      "name": "SSIV #4",
+      "tags": [],
+      "asset": {
+        "id": "-K5uq-UetI-GueOga-4k",
+        "name": "SSIV",
+        "params": {
+          "top": -1.422477,
+          "left": -2.966155,
+          "scale": 1,
+          "width": 5.9021,
+          "height": 2.7936
+        },
+        "shared": true,
+        "subType": "piping",
+        "category": "Valve",
+        "imageUrl": "https://storage.googleapis.com/ft-qa-master-bucket/assets/custom-library/generic/2D/242f7a7b72b8--K5uq-UetI-GueOga-4k.svg?GoogleAccessId=ft-qa-master-jsonapi%40fieldapp-qa.iam.gserviceaccount.com&Expires=1698310090&Signature=WD%2F8XrWnAdDRy3CAYU3yqFf80VTjbtpINaEbNgUhx1auYuWpeIStgL%2FUTVNIkCEGv078QfYBKzIp75Kvc%2FtrujcP0EuqkvYAPwogaMxgaHdrGFflLmY27%2FFPWojTVqVWR%2BkEPkyLrv5UuQZzX02tLnRQgrfxMue1JF1SbeHK%2Bxbqp1M3%2BtEdWAfNth7HWkYkKFqz%2FtlBJ%2FDvez7B9zXcLrdsdU7G8chWKaLytsUacCo%2Fzt666KA7XCoumWyW%2BRMfIXGFEzkiWhGKK6cHFOgCOQCisL1XhSvfRZXAKAFS07GLd3WDEDSVOOh4RJCOAxwiobfbPJ24Unsq5bSTKzDi%2Fw%3D%3D",
+        "sockets2d": [
+          {
+            "name": "a",
+            "x": -2.966111,
+            "y": 0.010651,
+            "z": 0.990768
+          },
+          {
+            "name": "b",
+            "x": 2.936002,
+            "y": 0.010636,
+            "z": 1.001537
+          }
+        ],
+        "model3dUrl": "https://storage.googleapis.com/ft-qa-master-bucket/assets/custom-library/generic/3D/99a79643ebfb--K5uq-UetI-GueOga-4k.json?GoogleAccessId=ft-qa-master-jsonapi%40fieldapp-qa.iam.gserviceaccount.com&Expires=1698310090&Signature=jpP5a4z2Et8bz481M3xcg1sQqUEa9%2F%2FZllbmkhOLcKOa0XgcjWKSkIyIpgcp%2F%2BDA0TG%2Bg%2BTzDPdUTDiOgwd1ls1R9dOalwxCNzVU1LeXxAGTPApNg9Mo%2Fr6LTe7SMs3ioZAZQIKB2xN%2B5ze3IeX4rnJWyxf%2BPMI2KubdYXjHroJJbFMBvRppxQUvRx2PU3Y9GnRJ98bIF8ONpFrR8%2FvVS%2FZr%2F020vNheQFDELyn8ypYpRaSxdhxkrD8qNPVmLPKVpQiKQf2Pvfl%2BDMSOSSTsQjy%2FaKyh9NlpPNhieuM5hiF69Q6b8yK33g0JpVUnlhWWgisEW2TVB3VsiNpovxxWUw%3D%3D",
+        "description": "",
+        "dockingMales": [],
+        "type": "structure"
+      },
+      "created": "2023-10-02T09:38:18.183Z",
+      "creator": "upgrade-script",
+      "virtual": false,
+      "visible": true,
+      "isLocked": false,
+      "textColor": "#FFF",
+      "costObject": {
+        "value": 0,
+        "locked": false,
+        "entries": [],
+        "currency": "USD",
+        "costPerDay": 0,
+        "costByLength": false,
+        "costPerLengthUnit": 1
+      },
+      "isInactive": false,
+      "subProject": "-MA1551S-odms4rVbJ8B",
+      "clonedFroms": [
+        "-La-eGG5QSR4ieCsHR6K"
+      ],
+      "hiddenLabel": false,
+      "renderOrder": 0,
+      "importParams": {},
+      "initialState": {
+        "x": 501997.2575392503,
+        "y": 6666696.285310577,
+        "scale": 1,
+        "width": 5.9021,
+        "height": 5.9021,
+        "rotation": 0,
+        "z": -121.14848935926251
+      },
+      "showMetaInfo": false,
+      "customResults": {},
+      "isValidForCost": true,
+      "perAssetParams": {
+        "fontSize": 16
+      },
+      "showDescription": false,
+      "showCustomResults": false,
+      "havePerAssetSockets": false,
+      "wellmasterConfiguration": {},
+      "connectionsAsFrom": {
+        "-MA1551S-odms4rVbJ8_": true
+      },
+      "connectionsAsTo": {
+        "-MA1551S-odms4rVbJ8e": true
+      },
+      "shapes": {},
+      "metaData": [],
+      "sockets2d": [
+        {
+          "x": -2.966111,
+          "y": 0.010651,
+          "z": 0.990768,
+          "name": "a",
+          "metaData": []
+        },
+        {
+          "x": 2.936002,
+          "y": 0.010636,
+          "z": 1.001537,
+          "name": "b",
+          "metaData": []
+        }
+      ]
+    },
+    "-MA1551S-odms4rVbJ8M": {
+      "id": "-MA1551S-odms4rVbJ8M",
+      "name": "Manifold #2",
+      "tags": [],
+      "asset": {
+        "id": "-K5uq-URmQV-aH0-uBpF",
+        "name": "Manifold",
+        "params": {
+          "top": -8.024238700167967,
+          "left": -4.711310863494873,
+          "scale": 1,
+          "width": 9.156824111938477,
+          "height": 15.82449773438768,
+          "isGLTF": true,
+          "minimumSocketSize": 0.35
+        },
+        "shared": true,
+        "subType": "SPS",
+        "category": "Manifold",
+        "imageUrl": "https://storage.googleapis.com/ft-qa-master-bucket/assets/custom-library/generic/2D/9b3386d45609--K5uq-URmQV-aH0-uBpF.svg?GoogleAccessId=ft-qa-master-jsonapi%40fieldapp-qa.iam.gserviceaccount.com&Expires=1698310090&Signature=Xr3%2FEH5ocTWaP90jyZxJtpUfPDJMg4cjklbIqv%2BfocX4SoNJkPeIiL7u9%2FfpK1EvHa19djqoM2OvV%2FX5VC3EAeH%2FESwP6Hg5PgsFxrQRD8iwqxmep1tpitoJ5RIFj%2FN08TFB4p8qgkzsihlMpxf6SjbOhNpql3JLU0ghtgsKA9GMGpuoBAZCyVXHKWrZ22iCwCj%2FLRcG17o45Zij8abONNz%2FLWX1sT6PQ53TjqPu%2FEwAPVMI3DEBoTfdg%2FrY5yTQ%2B8nmW588JkHr4URa3l0fj2SiHee2vACysRJMwJgOk%2Bug0Io9fhj7fDSRFi9jr1ApBsp3qlpGMca8LBQ091xMFg%3D%3D",
+        "obsolete": false,
+        "sockets2d": [
+          {
+            "name": "e",
+            "x": -3.466668,
+            "y": -2.126078,
+            "z": 2.63429
+          },
+          {
+            "name": "f",
+            "x": -3.466668,
+            "y": -0.111887,
+            "z": 2.63429
+          },
+          {
+            "name": "g",
+            "x": -3.466668,
+            "y": 1.902296,
+            "z": 2.63429
+          },
+          {
+            "name": "a",
+            "x": -3.124539,
+            "y": -6.502216,
+            "z": 2.67631
+          },
+          {
+            "name": "b",
+            "x": -1.123239,
+            "y": -6.77882,
+            "z": 2.629751
+          },
+          {
+            "name": "c",
+            "x": 0.863026,
+            "y": -6.77863,
+            "z": 2.626393
+          },
+          {
+            "name": "d",
+            "x": 2.866288,
+            "y": -6.50012,
+            "z": 2.656032
+          },
+          {
+            "name": "h",
+            "x": 3.201769,
+            "y": -3.124756,
+            "z": 2.642102
+          },
+          {
+            "name": "i",
+            "x": 3.200848,
+            "y": -1.13484,
+            "z": 2.634963
+          },
+          {
+            "name": "j",
+            "x": 3.201574,
+            "y": 0.887059,
+            "z": 2.640652
+          },
+          {
+            "name": "k",
+            "x": 3.201499,
+            "y": 2.898176,
+            "z": 2.638084
+          },
+          {
+            "name": "o",
+            "x": 2.886434,
+            "y": 6.277004,
+            "z": 2.665269
+          },
+          {
+            "name": "n",
+            "x": 0.882757,
+            "y": 6.554781,
+            "z": 2.62981
+          },
+          {
+            "name": "m",
+            "x": -1.116748,
+            "y": 6.557262,
+            "z": 2.645335
+          },
+          {
+            "name": "l",
+            "x": -3.118234,
+            "y": 6.27638,
+            "z": 2.65849
+          }
+        ],
+        "filename3D": "Manifold_draco.glb - Thu, 08 Oct 2020 17:54:07 GMT",
+        "model3dUrl": "https://storage.googleapis.com/ft-qa-master-bucket/assets/custom-library/generic/3D/803be120c25c--K5uq-URmQV-aH0-uBpF.json?GoogleAccessId=ft-qa-master-jsonapi%40fieldapp-qa.iam.gserviceaccount.com&Expires=1698310090&Signature=UwSU4%2FwIe133lcoieYgAvJhpq0rJknqR170qffkCHdn%2BlD1OFCJr2cTnMfs0O3OgxlkN8blVuRevdRw%2BJNQu6e1sev1TLPfAQu2rX9TxibVsPhvcjiYmygi0oGCykTiRP4PJaRkNFYLGJ7g4inWyT%2FTXFH8vVZFpHgePc6dkHDh3yfkcMwXK90L6L7Oym%2BSNH3um2v5peX%2Bs8T33NTWnTcAMPy14R6uVwXMZnPmFFb1N7rLHglA8T2oytPehi%2F0EvnejsuUQUM6M2Ou5sX0POSK2vPedUgvSa3faO%2Fy5NfJlv6llTUky6NOWOoZv65%2F0Lynm1d6A%2Fz4EenzHbhX8AA%3D%3D",
+        "description": "",
+        "dockingMales": [],
+        "type": "structure"
+      },
+      "created": "2023-10-02T09:38:18.183Z",
+      "creator": "upgrade-script",
+      "virtual": false,
+      "visible": true,
+      "isLocked": false,
+      "textColor": "#FFF",
+      "costObject": {
+        "value": 44444444,
+        "locked": false,
+        "entries": [],
+        "currency": "USD",
+        "costPerDay": 0,
+        "costByLength": false,
+        "costPerLengthUnit": 1
+      },
+      "isInactive": false,
+      "subProject": "-MA1551S-odms4rVbJ8B",
+      "clonedFroms": [
+        "-La-eH9IPiKLr2rT08IZ"
+      ],
+      "hiddenLabel": false,
+      "renderOrder": 0,
+      "importParams": {},
+      "initialState": {
+        "x": 502128.0055228285,
+        "y": 6666703.929733124,
+        "scale": 1,
+        "width": 9.157,
+        "height": 9.157,
+        "rotation": 0,
+        "z": -121.47361886433403
+      },
+      "showMetaInfo": false,
+      "customResults": {},
+      "isValidForCost": true,
+      "perAssetParams": {
+        "fontSize": 16
+      },
+      "showDescription": false,
+      "showCustomResults": false,
+      "havePerAssetSockets": false,
+      "wellmasterConfiguration": {},
+      "connectionsAsFrom": {
+        "-MA1551S-odms4rVbJ8a": true,
+        "-MA1551S-odms4rVbJ8b": true,
+        "-MA1551S-odms4rVbJ8i": true
+      },
+      "connectionsAsTo": {
+        "-MA1551S-odms4rVbJ8_": true,
+        "-MA1551S-odms4rVbJ8c": true
+      },
+      "shapes": {},
+      "metaData": [],
+      "sockets2d": [
+        {
+          "x": -3.466668,
+          "y": -2.126078,
+          "z": 2.63429,
+          "name": "e",
+          "metaData": []
+        },
+        {
+          "x": -3.466668,
+          "y": -0.111887,
+          "z": 2.63429,
+          "name": "f",
+          "metaData": []
+        },
+        {
+          "x": -3.466668,
+          "y": 1.902296,
+          "z": 2.63429,
+          "name": "g",
+          "metaData": []
+        },
+        {
+          "x": -3.124539,
+          "y": -6.502216,
+          "z": 2.67631,
+          "name": "a",
+          "metaData": []
+        },
+        {
+          "x": -1.123239,
+          "y": -6.77882,
+          "z": 2.629751,
+          "name": "b",
+          "metaData": []
+        },
+        {
+          "x": 0.863026,
+          "y": -6.77863,
+          "z": 2.626393,
+          "name": "c",
+          "metaData": []
+        },
+        {
+          "x": 2.866288,
+          "y": -6.50012,
+          "z": 2.656032,
+          "name": "d",
+          "metaData": []
+        },
+        {
+          "x": 3.201769,
+          "y": -3.124756,
+          "z": 2.642102,
+          "name": "h",
+          "metaData": []
+        },
+        {
+          "x": 3.200848,
+          "y": -1.13484,
+          "z": 2.634963,
+          "name": "i",
+          "metaData": []
+        },
+        {
+          "x": 3.201574,
+          "y": 0.887059,
+          "z": 2.640652,
+          "name": "j",
+          "metaData": []
+        },
+        {
+          "x": 3.201499,
+          "y": 2.898176,
+          "z": 2.638084,
+          "name": "k",
+          "metaData": []
+        },
+        {
+          "x": 2.886434,
+          "y": 6.277004,
+          "z": 2.665269,
+          "name": "o",
+          "metaData": []
+        },
+        {
+          "x": 0.882757,
+          "y": 6.554781,
+          "z": 2.62981,
+          "name": "n",
+          "metaData": []
+        },
+        {
+          "x": -1.116748,
+          "y": 6.557262,
+          "z": 2.645335,
+          "name": "m",
+          "metaData": []
+        },
+        {
+          "x": -3.118234,
+          "y": 6.27638,
+          "z": 2.65849,
+          "name": "l",
+          "metaData": []
+        }
+      ]
+    },
+    "-MA1551S-odms4rVbJ8N": {
+      "id": "-MA1551S-odms4rVbJ8N",
+      "name": "Inline-T #2",
+      "tags": [],
+      "asset": {
+        "id": "-K5uq-UM-_005a2a7l8i",
+        "name": "Inline-T",
+        "params": {
+          "top": -5.027855373417855,
+          "left": -0.8835904464758089,
+          "scale": 1,
+          "width": 1.5820387770196231,
+          "height": 9.318247807086236,
+          "isGLTF": true,
+          "minimumSocketSize": 0.25
+        },
+        "shared": true,
+        "subType": "piping",
+        "category": "Valve",
+        "imageUrl": "https://storage.googleapis.com/ft-qa-master-bucket/assets/custom-library/generic/2D/cc53d5829bdd--K5uq-UM-_005a2a7l8i.svg?GoogleAccessId=ft-qa-master-jsonapi%40fieldapp-qa.iam.gserviceaccount.com&Expires=1698310090&Signature=c3pKgKy6OZGy1OuP0bPsiidB%2BvpU2BRKKL4a%2BrLYlzB%2B5EfulqFhaqvo%2FkQ9ghJI%2BxhPoCRssJ7xhkZLE7CJRii2YmRYhAUtvnAP2qPMlk3MAAttjWYJh5%2BzHbCxEq56RnxIgHS7Z%2BsD%2Fk33i7WlQX7%2B6%2BTP35p6OiWvN4QIkuoJfP2Y3kbkCtn%2BtFvjbvAnN9DkX27WhdDxQXPg3MQZnFNfmX3C%2BXNN32PVeK6YpF9pmPfU%2F0%2FBu97mQhd9hr5aIlpC1WaVirDVlhGOSgx43kZof3qauhdSccUHELcL6lyCLo07%2BUzoI0OFvNQMQx%2FQ5lc4R8lEjnU2S2RzqMm4eg%3D%3D",
+        "sockets2d": [
+          {
+            "name": "a",
+            "x": -0.024705,
+            "y": -4.825774,
+            "z": 0.254057
+          },
+          {
+            "name": "c",
+            "x": -0.030112,
+            "y": 4.620347,
+            "z": 0.260889
+          },
+          {
+            "name": "b",
+            "x": -0.028493,
+            "y": 1.910118,
+            "z": 1.422113
+          }
+        ],
+        "filename3D": "Inline-T_draco.glb - Thu, 08 Oct 2020 09:27:17 GMT",
+        "model3dUrl": "https://storage.googleapis.com/ft-qa-master-bucket/assets/custom-library/generic/3D/c21054ed259c--K5uq-UM-_005a2a7l8i.json?GoogleAccessId=ft-qa-master-jsonapi%40fieldapp-qa.iam.gserviceaccount.com&Expires=1698310090&Signature=sZndTiJaPB4bNHTPbhsPROECGOrUKDpEJ9oyNusWzQVAKtq49Tif%2B9Zt75U2N4fzRdF96KvqbWMb0eg8RvsoBtkgilPSJE1gPOdf2UC3PyuqOcm8t5Fp7Gj5w8iXnLUEL08ntoVwyNx3NGEPjm83PE%2FnEeQeXi%2BY66m%2FhI9YW0ERmyKIPWGhPbu42i10EFo7BCNifmqG0eH3aWRVRbcEH6SBXmFu1OpFTNz5fL0T6X72kSeyfgD0jju2TU06YOAxIym4a9cNoWxquTERPwPc%2BYSpOwN30Mq1UE0yNnCAIclpsYMCUiKzSEuRmSnkYLIlH%2BoN0aTIWw8tMERJaoRINg%3D%3D",
+        "description": "",
+        "dockingMales": [],
+        "filenameSockets": "Inline-T.sockets - Wed, 14 Oct 2020 18:28:45 GMT",
+        "type": "structure"
+      },
+      "created": "2023-10-02T09:38:18.183Z",
+      "creator": "upgrade-script",
+      "virtual": false,
+      "visible": true,
+      "isLocked": false,
+      "textColor": "#FFF",
+      "costObject": {
+        "value": 0,
+        "locked": false,
+        "entries": [],
+        "currency": "USD",
+        "costPerDay": 0,
+        "costByLength": false,
+        "costPerLengthUnit": 1
+      },
+      "isInactive": false,
+      "subProject": "-MA1551S-odms4rVbJ8B",
+      "clonedFroms": [
+        "-La-eLKfwx4ol1lJilbY"
+      ],
+      "hiddenLabel": false,
+      "renderOrder": 0,
+      "importParams": {},
+      "initialState": {
+        "x": 502118.40910249634,
+        "y": 6666780.165646463,
+        "scale": 1,
+        "width": 1.582,
+        "height": 1.582,
+        "rotation": 55.580617241394066,
+        "z": -121.56929337842952
+      },
+      "showMetaInfo": false,
+      "customResults": {},
+      "isValidForCost": true,
+      "perAssetParams": {
+        "fontSize": 16
+      },
+      "showDescription": false,
+      "showCustomResults": false,
+      "havePerAssetSockets": false,
+      "wellmasterConfiguration": {},
+      "connectionsAsFrom": {},
+      "connectionsAsTo": {
+        "-MA1551S-odms4rVbJ8a": true,
+        "-MA1551S-odms4rVbJ8h": true
+      },
+      "shapes": {},
+      "metaData": [],
+      "sockets2d": [
+        {
+          "x": -0.024705,
+          "y": -4.825774,
+          "z": 0.254057,
+          "name": "a",
+          "metaData": []
+        },
+        {
+          "x": -0.030112,
+          "y": 4.620347,
+          "z": 0.260889,
+          "name": "c",
+          "metaData": []
+        },
+        {
+          "x": -0.028493,
+          "y": 1.910118,
+          "z": 1.422113,
+          "name": "b",
+          "metaData": []
+        }
+      ]
+    },
+    "-MA1551S-odms4rVbJ8O": {
+      "id": "-MA1551S-odms4rVbJ8O",
+      "name": "Manifold #3",
+      "tags": [],
+      "asset": {
+        "id": "-K5uq-URmQV-aH0-uBpF",
+        "name": "Manifold",
+        "params": {
+          "top": -8.024238700167967,
+          "left": -4.711310863494873,
+          "scale": 1,
+          "width": 9.156824111938477,
+          "height": 15.82449773438768,
+          "isGLTF": true,
+          "minimumSocketSize": 0.35
+        },
+        "shared": true,
+        "subType": "SPS",
+        "category": "Manifold",
+        "imageUrl": "https://storage.googleapis.com/ft-qa-master-bucket/assets/custom-library/generic/2D/9b3386d45609--K5uq-URmQV-aH0-uBpF.svg?GoogleAccessId=ft-qa-master-jsonapi%40fieldapp-qa.iam.gserviceaccount.com&Expires=1698310090&Signature=Xr3%2FEH5ocTWaP90jyZxJtpUfPDJMg4cjklbIqv%2BfocX4SoNJkPeIiL7u9%2FfpK1EvHa19djqoM2OvV%2FX5VC3EAeH%2FESwP6Hg5PgsFxrQRD8iwqxmep1tpitoJ5RIFj%2FN08TFB4p8qgkzsihlMpxf6SjbOhNpql3JLU0ghtgsKA9GMGpuoBAZCyVXHKWrZ22iCwCj%2FLRcG17o45Zij8abONNz%2FLWX1sT6PQ53TjqPu%2FEwAPVMI3DEBoTfdg%2FrY5yTQ%2B8nmW588JkHr4URa3l0fj2SiHee2vACysRJMwJgOk%2Bug0Io9fhj7fDSRFi9jr1ApBsp3qlpGMca8LBQ091xMFg%3D%3D",
+        "obsolete": false,
+        "sockets2d": [
+          {
+            "name": "e",
+            "x": -3.466668,
+            "y": -2.126078,
+            "z": 2.63429
+          },
+          {
+            "name": "f",
+            "x": -3.466668,
+            "y": -0.111887,
+            "z": 2.63429
+          },
+          {
+            "name": "g",
+            "x": -3.466668,
+            "y": 1.902296,
+            "z": 2.63429
+          },
+          {
+            "name": "a",
+            "x": -3.124539,
+            "y": -6.502216,
+            "z": 2.67631
+          },
+          {
+            "name": "b",
+            "x": -1.123239,
+            "y": -6.77882,
+            "z": 2.629751
+          },
+          {
+            "name": "c",
+            "x": 0.863026,
+            "y": -6.77863,
+            "z": 2.626393
+          },
+          {
+            "name": "d",
+            "x": 2.866288,
+            "y": -6.50012,
+            "z": 2.656032
+          },
+          {
+            "name": "h",
+            "x": 3.201769,
+            "y": -3.124756,
+            "z": 2.642102
+          },
+          {
+            "name": "i",
+            "x": 3.200848,
+            "y": -1.13484,
+            "z": 2.634963
+          },
+          {
+            "name": "j",
+            "x": 3.201574,
+            "y": 0.887059,
+            "z": 2.640652
+          },
+          {
+            "name": "k",
+            "x": 3.201499,
+            "y": 2.898176,
+            "z": 2.638084
+          },
+          {
+            "name": "o",
+            "x": 2.886434,
+            "y": 6.277004,
+            "z": 2.665269
+          },
+          {
+            "name": "n",
+            "x": 0.882757,
+            "y": 6.554781,
+            "z": 2.62981
+          },
+          {
+            "name": "m",
+            "x": -1.116748,
+            "y": 6.557262,
+            "z": 2.645335
+          },
+          {
+            "name": "l",
+            "x": -3.118234,
+            "y": 6.27638,
+            "z": 2.65849
+          }
+        ],
+        "filename3D": "Manifold_draco.glb - Thu, 08 Oct 2020 17:54:07 GMT",
+        "model3dUrl": "https://storage.googleapis.com/ft-qa-master-bucket/assets/custom-library/generic/3D/803be120c25c--K5uq-URmQV-aH0-uBpF.json?GoogleAccessId=ft-qa-master-jsonapi%40fieldapp-qa.iam.gserviceaccount.com&Expires=1698310090&Signature=UwSU4%2FwIe133lcoieYgAvJhpq0rJknqR170qffkCHdn%2BlD1OFCJr2cTnMfs0O3OgxlkN8blVuRevdRw%2BJNQu6e1sev1TLPfAQu2rX9TxibVsPhvcjiYmygi0oGCykTiRP4PJaRkNFYLGJ7g4inWyT%2FTXFH8vVZFpHgePc6dkHDh3yfkcMwXK90L6L7Oym%2BSNH3um2v5peX%2Bs8T33NTWnTcAMPy14R6uVwXMZnPmFFb1N7rLHglA8T2oytPehi%2F0EvnejsuUQUM6M2Ou5sX0POSK2vPedUgvSa3faO%2Fy5NfJlv6llTUky6NOWOoZv65%2F0Lynm1d6A%2Fz4EenzHbhX8AA%3D%3D",
+        "description": "",
+        "dockingMales": [],
+        "type": "structure"
+      },
+      "created": "2023-10-02T09:38:18.183Z",
+      "creator": "upgrade-script",
+      "virtual": false,
+      "visible": true,
+      "isLocked": false,
+      "textColor": "#FFF",
+      "costObject": {
+        "value": 44444444,
+        "locked": false,
+        "entries": [],
+        "currency": "USD",
+        "costPerDay": 0,
+        "costByLength": false,
+        "costPerLengthUnit": 1
+      },
+      "isInactive": false,
+      "subProject": "-MA1551S-odms4rVbJ8B",
+      "clonedFroms": [
+        "-La-eN8IGiqP0zxBm02H"
+      ],
+      "hiddenLabel": false,
+      "renderOrder": 0,
+      "importParams": {},
+      "initialState": {
+        "x": 502211.20510547434,
+        "y": 6666701.69458338,
+        "scale": 1,
+        "width": 9.157,
+        "height": 9.157,
+        "rotation": 0,
+        "z": -121.66945952579243
+      },
+      "showMetaInfo": false,
+      "customResults": {},
+      "isValidForCost": true,
+      "perAssetParams": {
+        "fontSize": 16
+      },
+      "showDescription": false,
+      "showCustomResults": false,
+      "havePerAssetSockets": false,
+      "wellmasterConfiguration": {},
+      "connectionsAsFrom": {},
+      "connectionsAsTo": {
+        "-MA1551S-odms4rVbJ8b": true,
+        "-MA1551S-odms4rVbJ8d": true,
+        "-MA1551S-odms4rVbJ8g": true
+      },
+      "shapes": {},
+      "metaData": [],
+      "sockets2d": [
+        {
+          "x": -3.466668,
+          "y": -2.126078,
+          "z": 2.63429,
+          "name": "e",
+          "metaData": []
+        },
+        {
+          "x": -3.466668,
+          "y": -0.111887,
+          "z": 2.63429,
+          "name": "f",
+          "metaData": []
+        },
+        {
+          "x": -3.466668,
+          "y": 1.902296,
+          "z": 2.63429,
+          "name": "g",
+          "metaData": []
+        },
+        {
+          "x": -3.124539,
+          "y": -6.502216,
+          "z": 2.67631,
+          "name": "a",
+          "metaData": []
+        },
+        {
+          "x": -1.123239,
+          "y": -6.77882,
+          "z": 2.629751,
+          "name": "b",
+          "metaData": []
+        },
+        {
+          "x": 0.863026,
+          "y": -6.77863,
+          "z": 2.626393,
+          "name": "c",
+          "metaData": []
+        },
+        {
+          "x": 2.866288,
+          "y": -6.50012,
+          "z": 2.656032,
+          "name": "d",
+          "metaData": []
+        },
+        {
+          "x": 3.201769,
+          "y": -3.124756,
+          "z": 2.642102,
+          "name": "h",
+          "metaData": []
+        },
+        {
+          "x": 3.200848,
+          "y": -1.13484,
+          "z": 2.634963,
+          "name": "i",
+          "metaData": []
+        },
+        {
+          "x": 3.201574,
+          "y": 0.887059,
+          "z": 2.640652,
+          "name": "j",
+          "metaData": []
+        },
+        {
+          "x": 3.201499,
+          "y": 2.898176,
+          "z": 2.638084,
+          "name": "k",
+          "metaData": []
+        },
+        {
+          "x": 2.886434,
+          "y": 6.277004,
+          "z": 2.665269,
+          "name": "o",
+          "metaData": []
+        },
+        {
+          "x": 0.882757,
+          "y": 6.554781,
+          "z": 2.62981,
+          "name": "n",
+          "metaData": []
+        },
+        {
+          "x": -1.116748,
+          "y": 6.557262,
+          "z": 2.645335,
+          "name": "m",
+          "metaData": []
+        },
+        {
+          "x": -3.118234,
+          "y": 6.27638,
+          "z": 2.65849,
+          "name": "l",
+          "metaData": []
+        }
+      ]
+    },
+    "-MA1551S-odms4rVbJ8P": {
+      "id": "-MA1551S-odms4rVbJ8P",
+      "name": "Manifold #4",
+      "tags": [],
+      "asset": {
+        "id": "-K5uq-URmQV-aH0-uBpF",
+        "name": "Manifold",
+        "params": {
+          "top": -8.024238700167967,
+          "left": -4.711310863494873,
+          "scale": 1,
+          "width": 9.156824111938477,
+          "height": 15.82449773438768,
+          "isGLTF": true,
+          "minimumSocketSize": 0.35
+        },
+        "shared": true,
+        "subType": "SPS",
+        "category": "Manifold",
+        "imageUrl": "https://storage.googleapis.com/ft-qa-master-bucket/assets/custom-library/generic/2D/9b3386d45609--K5uq-URmQV-aH0-uBpF.svg?GoogleAccessId=ft-qa-master-jsonapi%40fieldapp-qa.iam.gserviceaccount.com&Expires=1698310090&Signature=Xr3%2FEH5ocTWaP90jyZxJtpUfPDJMg4cjklbIqv%2BfocX4SoNJkPeIiL7u9%2FfpK1EvHa19djqoM2OvV%2FX5VC3EAeH%2FESwP6Hg5PgsFxrQRD8iwqxmep1tpitoJ5RIFj%2FN08TFB4p8qgkzsihlMpxf6SjbOhNpql3JLU0ghtgsKA9GMGpuoBAZCyVXHKWrZ22iCwCj%2FLRcG17o45Zij8abONNz%2FLWX1sT6PQ53TjqPu%2FEwAPVMI3DEBoTfdg%2FrY5yTQ%2B8nmW588JkHr4URa3l0fj2SiHee2vACysRJMwJgOk%2Bug0Io9fhj7fDSRFi9jr1ApBsp3qlpGMca8LBQ091xMFg%3D%3D",
+        "obsolete": false,
+        "sockets2d": [
+          {
+            "name": "e",
+            "x": -3.466668,
+            "y": -2.126078,
+            "z": 2.63429
+          },
+          {
+            "name": "f",
+            "x": -3.466668,
+            "y": -0.111887,
+            "z": 2.63429
+          },
+          {
+            "name": "g",
+            "x": -3.466668,
+            "y": 1.902296,
+            "z": 2.63429
+          },
+          {
+            "name": "a",
+            "x": -3.124539,
+            "y": -6.502216,
+            "z": 2.67631
+          },
+          {
+            "name": "b",
+            "x": -1.123239,
+            "y": -6.77882,
+            "z": 2.629751
+          },
+          {
+            "name": "c",
+            "x": 0.863026,
+            "y": -6.77863,
+            "z": 2.626393
+          },
+          {
+            "name": "d",
+            "x": 2.866288,
+            "y": -6.50012,
+            "z": 2.656032
+          },
+          {
+            "name": "h",
+            "x": 3.201769,
+            "y": -3.124756,
+            "z": 2.642102
+          },
+          {
+            "name": "i",
+            "x": 3.200848,
+            "y": -1.13484,
+            "z": 2.634963
+          },
+          {
+            "name": "j",
+            "x": 3.201574,
+            "y": 0.887059,
+            "z": 2.640652
+          },
+          {
+            "name": "k",
+            "x": 3.201499,
+            "y": 2.898176,
+            "z": 2.638084
+          },
+          {
+            "name": "o",
+            "x": 2.886434,
+            "y": 6.277004,
+            "z": 2.665269
+          },
+          {
+            "name": "n",
+            "x": 0.882757,
+            "y": 6.554781,
+            "z": 2.62981
+          },
+          {
+            "name": "m",
+            "x": -1.116748,
+            "y": 6.557262,
+            "z": 2.645335
+          },
+          {
+            "name": "l",
+            "x": -3.118234,
+            "y": 6.27638,
+            "z": 2.65849
+          }
+        ],
+        "filename3D": "Manifold_draco.glb - Thu, 08 Oct 2020 17:54:07 GMT",
+        "model3dUrl": "https://storage.googleapis.com/ft-qa-master-bucket/assets/custom-library/generic/3D/803be120c25c--K5uq-URmQV-aH0-uBpF.json?GoogleAccessId=ft-qa-master-jsonapi%40fieldapp-qa.iam.gserviceaccount.com&Expires=1698310090&Signature=UwSU4%2FwIe133lcoieYgAvJhpq0rJknqR170qffkCHdn%2BlD1OFCJr2cTnMfs0O3OgxlkN8blVuRevdRw%2BJNQu6e1sev1TLPfAQu2rX9TxibVsPhvcjiYmygi0oGCykTiRP4PJaRkNFYLGJ7g4inWyT%2FTXFH8vVZFpHgePc6dkHDh3yfkcMwXK90L6L7Oym%2BSNH3um2v5peX%2Bs8T33NTWnTcAMPy14R6uVwXMZnPmFFb1N7rLHglA8T2oytPehi%2F0EvnejsuUQUM6M2Ou5sX0POSK2vPedUgvSa3faO%2Fy5NfJlv6llTUky6NOWOoZv65%2F0Lynm1d6A%2Fz4EenzHbhX8AA%3D%3D",
+        "description": "",
+        "dockingMales": [],
+        "type": "structure"
+      },
+      "created": "2023-10-02T09:38:18.183Z",
+      "creator": "upgrade-script",
+      "virtual": false,
+      "visible": true,
+      "isLocked": false,
+      "textColor": "#FFF",
+      "costObject": {
+        "value": 44444444,
+        "locked": false,
+        "entries": [],
+        "currency": "USD",
+        "costPerDay": 0,
+        "costByLength": false,
+        "costPerLengthUnit": 1
+      },
+      "isInactive": false,
+      "subProject": "-MA1551S-odms4rVbJ8B",
+      "clonedFroms": [
+        "-La-eP5nAcWopCeHqezj"
+      ],
+      "hiddenLabel": false,
+      "renderOrder": 0,
+      "importParams": {},
+      "initialState": {
+        "x": 501993.8199208103,
+        "y": 6666652.8394549135,
+        "scale": 1,
+        "width": 9.157,
+        "height": 9.157,
+        "rotation": 0,
+        "label-offset-x": 7.180589230498299,
+        "label-offset-y": -11.91692827269435,
+        "z": -121.07262856863001
+      },
+      "showMetaInfo": false,
+      "customResults": {},
+      "isValidForCost": true,
+      "perAssetParams": {
+        "fontSize": 16
+      },
+      "showDescription": false,
+      "showCustomResults": false,
+      "havePerAssetSockets": false,
+      "wellmasterConfiguration": {},
+      "connectionsAsFrom": {
+        "-MA1551S-odms4rVbJ8c": true,
+        "-MA1551S-odms4rVbJ8d": true
+      },
+      "connectionsAsTo": {
+        "-MA1551S-odms4rVbJ8f": true
+      },
+      "shapes": {},
+      "metaData": [],
+      "sockets2d": [
+        {
+          "x": -3.466668,
+          "y": -2.126078,
+          "z": 2.63429,
+          "name": "e",
+          "metaData": []
+        },
+        {
+          "x": -3.466668,
+          "y": -0.111887,
+          "z": 2.63429,
+          "name": "f",
+          "metaData": []
+        },
+        {
+          "x": -3.466668,
+          "y": 1.902296,
+          "z": 2.63429,
+          "name": "g",
+          "metaData": []
+        },
+        {
+          "x": -3.124539,
+          "y": -6.502216,
+          "z": 2.67631,
+          "name": "a",
+          "metaData": []
+        },
+        {
+          "x": -1.123239,
+          "y": -6.77882,
+          "z": 2.629751,
+          "name": "b",
+          "metaData": []
+        },
+        {
+          "x": 0.863026,
+          "y": -6.77863,
+          "z": 2.626393,
+          "name": "c",
+          "metaData": []
+        },
+        {
+          "x": 2.866288,
+          "y": -6.50012,
+          "z": 2.656032,
+          "name": "d",
+          "metaData": []
+        },
+        {
+          "x": 3.201769,
+          "y": -3.124756,
+          "z": 2.642102,
+          "name": "h",
+          "metaData": []
+        },
+        {
+          "x": 3.200848,
+          "y": -1.13484,
+          "z": 2.634963,
+          "name": "i",
+          "metaData": []
+        },
+        {
+          "x": 3.201574,
+          "y": 0.887059,
+          "z": 2.640652,
+          "name": "j",
+          "metaData": []
+        },
+        {
+          "x": 3.201499,
+          "y": 2.898176,
+          "z": 2.638084,
+          "name": "k",
+          "metaData": []
+        },
+        {
+          "x": 2.886434,
+          "y": 6.277004,
+          "z": 2.665269,
+          "name": "o",
+          "metaData": []
+        },
+        {
+          "x": 0.882757,
+          "y": 6.554781,
+          "z": 2.62981,
+          "name": "n",
+          "metaData": []
+        },
+        {
+          "x": -1.116748,
+          "y": 6.557262,
+          "z": 2.645335,
+          "name": "m",
+          "metaData": []
+        },
+        {
+          "x": -3.118234,
+          "y": 6.27638,
+          "z": 2.65849,
+          "name": "l",
+          "metaData": []
+        }
+      ]
+    },
+    "-MA1551S-odms4rVbJ8Q": {
+      "id": "-MA1551S-odms4rVbJ8Q",
+      "name": "Manifold #5",
+      "tags": [],
+      "asset": {
+        "id": "-K5uq-URmQV-aH0-uBpF",
+        "name": "Manifold",
+        "params": {
+          "top": -8.024238700167967,
+          "left": -4.711310863494873,
+          "scale": 1,
+          "width": 9.156824111938477,
+          "height": 15.82449773438768,
+          "isGLTF": true,
+          "minimumSocketSize": 0.35
+        },
+        "shared": true,
+        "subType": "SPS",
+        "category": "Manifold",
+        "imageUrl": "https://storage.googleapis.com/ft-qa-master-bucket/assets/custom-library/generic/2D/9b3386d45609--K5uq-URmQV-aH0-uBpF.svg?GoogleAccessId=ft-qa-master-jsonapi%40fieldapp-qa.iam.gserviceaccount.com&Expires=1698310090&Signature=Xr3%2FEH5ocTWaP90jyZxJtpUfPDJMg4cjklbIqv%2BfocX4SoNJkPeIiL7u9%2FfpK1EvHa19djqoM2OvV%2FX5VC3EAeH%2FESwP6Hg5PgsFxrQRD8iwqxmep1tpitoJ5RIFj%2FN08TFB4p8qgkzsihlMpxf6SjbOhNpql3JLU0ghtgsKA9GMGpuoBAZCyVXHKWrZ22iCwCj%2FLRcG17o45Zij8abONNz%2FLWX1sT6PQ53TjqPu%2FEwAPVMI3DEBoTfdg%2FrY5yTQ%2B8nmW588JkHr4URa3l0fj2SiHee2vACysRJMwJgOk%2Bug0Io9fhj7fDSRFi9jr1ApBsp3qlpGMca8LBQ091xMFg%3D%3D",
+        "obsolete": false,
+        "sockets2d": [
+          {
+            "name": "e",
+            "x": -3.466668,
+            "y": -2.126078,
+            "z": 2.63429
+          },
+          {
+            "name": "f",
+            "x": -3.466668,
+            "y": -0.111887,
+            "z": 2.63429
+          },
+          {
+            "name": "g",
+            "x": -3.466668,
+            "y": 1.902296,
+            "z": 2.63429
+          },
+          {
+            "name": "a",
+            "x": -3.124539,
+            "y": -6.502216,
+            "z": 2.67631
+          },
+          {
+            "name": "b",
+            "x": -1.123239,
+            "y": -6.77882,
+            "z": 2.629751
+          },
+          {
+            "name": "c",
+            "x": 0.863026,
+            "y": -6.77863,
+            "z": 2.626393
+          },
+          {
+            "name": "d",
+            "x": 2.866288,
+            "y": -6.50012,
+            "z": 2.656032
+          },
+          {
+            "name": "h",
+            "x": 3.201769,
+            "y": -3.124756,
+            "z": 2.642102
+          },
+          {
+            "name": "i",
+            "x": 3.200848,
+            "y": -1.13484,
+            "z": 2.634963
+          },
+          {
+            "name": "j",
+            "x": 3.201574,
+            "y": 0.887059,
+            "z": 2.640652
+          },
+          {
+            "name": "k",
+            "x": 3.201499,
+            "y": 2.898176,
+            "z": 2.638084
+          },
+          {
+            "name": "o",
+            "x": 2.886434,
+            "y": 6.277004,
+            "z": 2.665269
+          },
+          {
+            "name": "n",
+            "x": 0.882757,
+            "y": 6.554781,
+            "z": 2.62981
+          },
+          {
+            "name": "m",
+            "x": -1.116748,
+            "y": 6.557262,
+            "z": 2.645335
+          },
+          {
+            "name": "l",
+            "x": -3.118234,
+            "y": 6.27638,
+            "z": 2.65849
+          }
+        ],
+        "filename3D": "Manifold_draco.glb - Thu, 08 Oct 2020 17:54:07 GMT",
+        "model3dUrl": "https://storage.googleapis.com/ft-qa-master-bucket/assets/custom-library/generic/3D/803be120c25c--K5uq-URmQV-aH0-uBpF.json?GoogleAccessId=ft-qa-master-jsonapi%40fieldapp-qa.iam.gserviceaccount.com&Expires=1698310090&Signature=UwSU4%2FwIe133lcoieYgAvJhpq0rJknqR170qffkCHdn%2BlD1OFCJr2cTnMfs0O3OgxlkN8blVuRevdRw%2BJNQu6e1sev1TLPfAQu2rX9TxibVsPhvcjiYmygi0oGCykTiRP4PJaRkNFYLGJ7g4inWyT%2FTXFH8vVZFpHgePc6dkHDh3yfkcMwXK90L6L7Oym%2BSNH3um2v5peX%2Bs8T33NTWnTcAMPy14R6uVwXMZnPmFFb1N7rLHglA8T2oytPehi%2F0EvnejsuUQUM6M2Ou5sX0POSK2vPedUgvSa3faO%2Fy5NfJlv6llTUky6NOWOoZv65%2F0Lynm1d6A%2Fz4EenzHbhX8AA%3D%3D",
+        "description": "",
+        "dockingMales": [],
+        "type": "structure"
+      },
+      "created": "2023-10-02T09:38:18.183Z",
+      "creator": "upgrade-script",
+      "virtual": false,
+      "visible": true,
+      "isLocked": false,
+      "textColor": "#FFF",
+      "costObject": {
+        "value": 44444444,
+        "locked": false,
+        "entries": [],
+        "currency": "USD",
+        "costPerDay": 0,
+        "costByLength": false,
+        "costPerLengthUnit": 1
+      },
+      "isInactive": false,
+      "subProject": "-MA1551S-odms4rVbJ8B",
+      "clonedFroms": [
+        "-La-eiuIIqbQHTlha7tx"
+      ],
+      "hiddenLabel": false,
+      "renderOrder": 0,
+      "importParams": {},
+      "initialState": {
+        "x": 501956.7581847377,
+        "y": 6666586.786863966,
+        "scale": 1,
+        "width": 9.157,
+        "height": 9.157,
+        "rotation": 0,
+        "meta-data-info-offset-x": -15.279395911144093,
+        "meta-data-info-offset-y": -14.25897855591029,
+        "z": -120.8810267152362
+      },
+      "showMetaInfo": false,
+      "customResults": {},
+      "isValidForCost": true,
+      "perAssetParams": {
+        "fontSize": 16
+      },
+      "showDescription": false,
+      "showCustomResults": false,
+      "havePerAssetSockets": false,
+      "wellmasterConfiguration": {},
+      "connectionsAsFrom": {
+        "-MA1551S-odms4rVbJ8e": true
+      },
+      "connectionsAsTo": {},
+      "shapes": {},
+      "metaData": [],
+      "sockets2d": [
+        {
+          "x": -3.466668,
+          "y": -2.126078,
+          "z": 2.63429,
+          "name": "e",
+          "metaData": []
+        },
+        {
+          "x": -3.466668,
+          "y": -0.111887,
+          "z": 2.63429,
+          "name": "f",
+          "metaData": []
+        },
+        {
+          "x": -3.466668,
+          "y": 1.902296,
+          "z": 2.63429,
+          "name": "g",
+          "metaData": []
+        },
+        {
+          "x": -3.124539,
+          "y": -6.502216,
+          "z": 2.67631,
+          "name": "a",
+          "metaData": []
+        },
+        {
+          "x": -1.123239,
+          "y": -6.77882,
+          "z": 2.629751,
+          "name": "b",
+          "metaData": []
+        },
+        {
+          "x": 0.863026,
+          "y": -6.77863,
+          "z": 2.626393,
+          "name": "c",
+          "metaData": []
+        },
+        {
+          "x": 2.866288,
+          "y": -6.50012,
+          "z": 2.656032,
+          "name": "d",
+          "metaData": []
+        },
+        {
+          "x": 3.201769,
+          "y": -3.124756,
+          "z": 2.642102,
+          "name": "h",
+          "metaData": []
+        },
+        {
+          "x": 3.200848,
+          "y": -1.13484,
+          "z": 2.634963,
+          "name": "i",
+          "metaData": []
+        },
+        {
+          "x": 3.201574,
+          "y": 0.887059,
+          "z": 2.640652,
+          "name": "j",
+          "metaData": []
+        },
+        {
+          "x": 3.201499,
+          "y": 2.898176,
+          "z": 2.638084,
+          "name": "k",
+          "metaData": []
+        },
+        {
+          "x": 2.886434,
+          "y": 6.277004,
+          "z": 2.665269,
+          "name": "o",
+          "metaData": []
+        },
+        {
+          "x": 0.882757,
+          "y": 6.554781,
+          "z": 2.62981,
+          "name": "n",
+          "metaData": []
+        },
+        {
+          "x": -1.116748,
+          "y": 6.557262,
+          "z": 2.645335,
+          "name": "m",
+          "metaData": []
+        },
+        {
+          "x": -3.118234,
+          "y": 6.27638,
+          "z": 2.65849,
+          "name": "l",
+          "metaData": []
+        }
+      ]
+    },
+    "-MA1551S-odms4rVbJ8R": {
+      "id": "-MA1551S-odms4rVbJ8R",
+      "name": "Plem #1",
+      "tags": [],
+      "asset": {
+        "id": "-K5uq-UryvqOkdghAvt-",
+        "name": "PLEM",
+        "params": {
+          "top": -6.137917109041769,
+          "left": -2.8016787436239445,
+          "scale": 1,
+          "width": 5.766462678169985,
+          "height": 12.913054102063118,
+          "isGLTF": true,
+          "minimumSocketSize": 0.25
+        },
+        "shared": true,
+        "subType": "piping",
+        "category": "Pipeline and Pipeline Assets",
+        "imageUrl": "https://storage.googleapis.com/ft-qa-master-bucket/assets/custom-library/generic/2D/c822c33c3bcb--K5uq-UryvqOkdghAvt-.svg?GoogleAccessId=ft-qa-master-jsonapi%40fieldapp-qa.iam.gserviceaccount.com&Expires=1698310090&Signature=BtxZPutzQZnTIzGBuNvB78TaOCAW9dFs1p6gPZrUfSTSFxjrBLWsyoTgxG8HvmIqu2vIi1Rf2XYwlo47C6vxipY3hTx0H%2BbDSHWWS4OwujOJoC7YjrcXVGvXf2OvxBgP75geFvuE92lQ0ntUmRnzEyCw74rfiyYrXe3Tn3K%2FXGfmjiqWJDoW6sm3PvvOc2skc4i5wuW24XBqK4M80E5TftdDjt%2FRffVCz7PaiJfYUFjDgP2f%2F53XzVRUj%2B%2FVch6owyhazUhKNtTH55cS2KqYMfUGksC4A6UGfTA8bR2lf7V%2F1K1TTqLNq5EiCQQGWoxxJ%2F031m1P6uJgk8E9HLQKKg%3D%3D",
+        "sockets2d": [
+          {
+            "name": "a",
+            "x": 0.991649,
+            "y": -3.073358,
+            "z": 1.036892
+          },
+          {
+            "name": "b",
+            "x": -0.798756,
+            "y": -3.07335,
+            "z": 1.036891
+          },
+          {
+            "name": "c",
+            "x": -0.798756,
+            "y": 3.783486,
+            "z": 1.036891
+          },
+          {
+            "name": "d",
+            "x": 0.991649,
+            "y": 3.783489,
+            "z": 1.036892
+          },
+          {
+            "name": "e",
+            "x": 2.500787,
+            "y": 2.964414,
+            "z": 1.036882
+          },
+          {
+            "name": "f",
+            "x": 2.500787,
+            "y": 1.536191,
+            "z": 1.036882
+          },
+          {
+            "name": "g",
+            "x": 2.500787,
+            "y": 0.418409,
+            "z": 1.036882
+          },
+          {
+            "name": "h",
+            "x": 2.500779,
+            "y": -0.807092,
+            "z": 1.036882
+          },
+          {
+            "name": "i",
+            "x": -2.329266,
+            "y": 2.964414,
+            "z": 1.036882
+          },
+          {
+            "name": "j",
+            "x": -2.329266,
+            "y": 1.536191,
+            "z": 1.036882
+          },
+          {
+            "name": "k",
+            "x": -2.329266,
+            "y": 0.418409,
+            "z": 1.036882
+          },
+          {
+            "name": "l",
+            "x": -2.329266,
+            "y": -0.807092,
+            "z": 1.036882
+          }
+        ],
+        "filename2D": "PLEM.svg - Thu, 08 Oct 2020 11:02:30 GMT",
+        "filename3D": "PLEM_draco.glb - Thu, 08 Oct 2020 10:46:32 GMT",
+        "model3dUrl": "https://storage.googleapis.com/ft-qa-master-bucket/assets/custom-library/generic/3D/1ee9bcd86aeb--K5uq-UryvqOkdghAvt-.json?GoogleAccessId=ft-qa-master-jsonapi%40fieldapp-qa.iam.gserviceaccount.com&Expires=1698310090&Signature=D4Gx91DdxWFcvXsxzT1e8QshUXHYiKvAJw1LRN8%2Bclj%2BxuDXyi%2BuIGdrfXQTsz198%2FVay%2FXCW1AlNfmS31xTLWXW7hZA8rzaDv4cVyC273QCqoYWc5n2t1byyaNOFzl2TkR8endQdF1S9HRLyJV9wHQzeZmQjvc4auAohACHskfgBkqVWMQK7cXFx4zi9iOF3DGDtqFGGYGJV5Sx5K5Lp1xzO6i7t8aqUVjykwDnS6wuAIrifRSIecUE5tzGcmDmqil3V7Fm%2F96u1O7cxkSSPpW91pNKSUt%2F2uDCm9n8p7oZCxJ%2BpeS1kvMa7gEigkrGpRPbUWBrHbvZU6G%2Fv2mdEg%3D%3D",
+        "description": "",
+        "dockingMales": [],
+        "type": "structure"
+      },
+      "created": "2023-10-02T09:38:18.183Z",
+      "creator": "upgrade-script",
+      "virtual": false,
+      "visible": true,
+      "isLocked": false,
+      "textColor": "#FFF",
+      "costObject": {
+        "value": 0,
+        "locked": false,
+        "entries": [],
+        "currency": "USD",
+        "costPerDay": 0,
+        "costByLength": false,
+        "costPerLengthUnit": 1
+      },
+      "isInactive": false,
+      "subProject": "-MA1551S-odms4rVbJ8B",
+      "clonedFroms": [
+        "-La-erDe6nPHY17kJ6te"
+      ],
+      "hiddenLabel": false,
+      "renderOrder": 0,
+      "importParams": {},
+      "initialState": {
+        "x": 502255.7056580126,
+        "y": 6666606.0804050425,
+        "scale": 1,
+        "width": 5.7181999999999995,
+        "height": 5.7181999999999995,
+        "rotation": 0,
+        "z": -121.62724111822192
+      },
+      "showMetaInfo": false,
+      "customResults": {},
+      "isValidForCost": true,
+      "perAssetParams": {
+        "fontSize": 16
+      },
+      "showDescription": false,
+      "showCustomResults": false,
+      "havePerAssetSockets": false,
+      "wellmasterConfiguration": {},
+      "connectionsAsFrom": {
+        "-MA1551S-odms4rVbJ8g": true
+      },
+      "connectionsAsTo": {},
+      "shapes": {},
+      "metaData": [],
+      "sockets2d": [
+        {
+          "x": 0.991649,
+          "y": -3.073358,
+          "z": 1.036892,
+          "name": "a",
+          "metaData": []
+        },
+        {
+          "x": -0.798756,
+          "y": -3.07335,
+          "z": 1.036891,
+          "name": "b",
+          "metaData": []
+        },
+        {
+          "x": -0.798756,
+          "y": 3.783486,
+          "z": 1.036891,
+          "name": "c",
+          "metaData": []
+        },
+        {
+          "x": 0.991649,
+          "y": 3.783489,
+          "z": 1.036892,
+          "name": "d",
+          "metaData": []
+        },
+        {
+          "x": 2.500787,
+          "y": 2.964414,
+          "z": 1.036882,
+          "name": "e",
+          "metaData": []
+        },
+        {
+          "x": 2.500787,
+          "y": 1.536191,
+          "z": 1.036882,
+          "name": "f",
+          "metaData": []
+        },
+        {
+          "x": 2.500787,
+          "y": 0.418409,
+          "z": 1.036882,
+          "name": "g",
+          "metaData": []
+        },
+        {
+          "x": 2.500779,
+          "y": -0.807092,
+          "z": 1.036882,
+          "name": "h",
+          "metaData": []
+        },
+        {
+          "x": -2.329266,
+          "y": 2.964414,
+          "z": 1.036882,
+          "name": "i",
+          "metaData": []
+        },
+        {
+          "x": -2.329266,
+          "y": 1.536191,
+          "z": 1.036882,
+          "name": "j",
+          "metaData": []
+        },
+        {
+          "x": -2.329266,
+          "y": 0.418409,
+          "z": 1.036882,
+          "name": "k",
+          "metaData": []
+        },
+        {
+          "x": -2.329266,
+          "y": -0.807092,
+          "z": 1.036882,
+          "name": "l",
+          "metaData": []
+        }
+      ]
+    },
+    "-MA1551S-odms4rVbJ8S": {
+      "id": "-MA1551S-odms4rVbJ8S",
+      "name": "XMT deep water #1",
+      "tags": [],
+      "asset": {
+        "id": "-K5uq-ULO1SqquOw_YUk",
+        "name": "XMT deep water",
+        "params": {
+          "top": -2.2996631966812298,
+          "left": -1.5930850505828857,
+          "scale": 1,
+          "width": 4.032201290130615,
+          "height": 4.644599497374557,
+          "isGLTF": true,
+          "minimumSocketSize": 0.35
+        },
+        "shared": true,
+        "subType": "SPS",
+        "category": "XMT",
+        "imageUrl": "https://storage.googleapis.com/ft-qa-master-bucket/assets/custom-library/generic/2D/3d6cf73528eb--K5uq-ULO1SqquOw_YUk.svg?GoogleAccessId=ft-qa-master-jsonapi%40fieldapp-qa.iam.gserviceaccount.com&Expires=1698310090&Signature=LY4VAAwsVASEegPgZNNhLK98%2BC1x1hGnbxkZWsQ4bq25QP9tPXmoFVGyaDtUSVnPygU%2BSKoR5SdYl4ZUQDI3Jgw%2FmDCuZmjhMd1enRVbXE5y5aHHaOXE0NCmIlaoJLo3LyBXcFzy6aEQnY6WhWcZUfZvFYtWqvbVugk%2B5FDwzpRd4Uj3u8%2FwS8jqtRUrmFW0ifogo1BtVslFj8qVpvL8HhERiSc8kEUb3ejhYVxCjS%2FWb5v5LLmkFLOUi3CMqLsy2g7BqP%2FYTzPXb4R17wx1Vh%2FjkbZDaOgbkryUbNhoUj32boQp1V567cC3rpKRRVK3alvBhTBonrBUtBba69MFyQ%3D%3D",
+        "obsolete": false,
+        "sockets2d": [
+          {
+            "name": "b",
+            "x": 0.010497,
+            "y": 2.160981,
+            "z": 2.437339
+          },
+          {
+            "name": "a",
+            "x": 0.010496,
+            "y": -1.895669,
+            "z": 2.6808
+          }
+        ],
+        "filename2D": "XMT_Deepwater.svg - Wed, 04 Nov 2020 12:33:30 GMT",
+        "filename3D": "XMT_Deepwater_draco.glb - Wed, 04 Nov 2020 12:04:06 GMT",
+        "model3dUrl": "https://storage.googleapis.com/ft-qa-master-bucket/assets/custom-library/generic/3D/59cadda2dee0--K5uq-ULO1SqquOw_YUk.json?GoogleAccessId=ft-qa-master-jsonapi%40fieldapp-qa.iam.gserviceaccount.com&Expires=1698310090&Signature=DWE418c3KyY86XLPI10LBUMKHwk13ETczbyty2HhLZUm%2F95PlfAVclPQnU8k6MWyyWwq7No%2FhQup0vTSnngmK61yb1ZPgrGCH8TbTcZPDDfGzA8DXOFd4WcnN8PJB7%2Fmv16jsdgiWRE0dGQzoLf5rU4d3FQZdds9nlBmDHE5w%2Fooad8AY143h7Hko%2BR6MiSg2mkEFKacAGm2ACXNO5eYZWCo96jRYlacfB7YyWTt%2FuCS1ttC%2BFpcCkF5kjfDs8t5ZcGObNZrNc0N0QpaJZYRh64LYIpAiGvuJdvH0ThPXLIwXgEeMOVV3OjtU%2FCt4VUng2kKDbZ2GyBO7aa1yzjlZQ%3D%3D",
+        "description": "",
+        "dockingMales": [],
+        "filenameSockets": "XMT_Deepwater.sockets - Wed, 04 Nov 2020 12:06:37 GMT",
+        "type": "structure"
+      },
+      "created": "2023-10-02T09:38:18.183Z",
+      "creator": "upgrade-script",
+      "virtual": false,
+      "visible": true,
+      "isLocked": false,
+      "textColor": "#FFF",
+      "costObject": {
+        "value": 0,
+        "locked": false,
+        "entries": [],
+        "currency": "USD",
+        "costPerDay": 0,
+        "costByLength": false,
+        "costPerLengthUnit": 1
+      },
+      "isInactive": false,
+      "subProject": "-MA1551S-odms4rVbJ8B",
+      "clonedFroms": [
+        "-La-f0cAX2cU2N15lZa_"
+      ],
+      "hiddenLabel": false,
+      "renderOrder": 0,
+      "importParams": {},
+      "initialState": {
+        "x": 502246.30287520436,
+        "y": 6666769.069423254,
+        "scale": 1,
+        "width": 4.032101,
+        "height": 4.032101,
+        "rotation": 88.6759781667854,
+        "label-offset-x": -11.721802847168874,
+        "label-offset-y": 8.467628962360322,
+        "z": -121.8584144772651
+      },
+      "showMetaInfo": false,
+      "customResults": {},
+      "isValidForCost": true,
+      "perAssetParams": {
+        "fontSize": 16
+      },
+      "showDescription": false,
+      "showCustomResults": false,
+      "havePerAssetSockets": false,
+      "wellmasterConfiguration": {},
+      "connectionsAsFrom": {
+        "-MA1551S-odms4rVbJ8h": true
+      },
+      "connectionsAsTo": {},
+      "shapes": {},
+      "metaData": [],
+      "sockets2d": [
+        {
+          "x": 0.010497,
+          "y": 2.160981,
+          "z": 2.437339,
+          "name": "b",
+          "metaData": []
+        },
+        {
+          "x": 0.010496,
+          "y": -1.895669,
+          "z": 2.6808,
+          "name": "a",
+          "metaData": []
+        }
+      ]
+    },
+    "-MA1551S-odms4rVbJ8T": {
+      "id": "-MA1551S-odms4rVbJ8T",
+      "name": "PLET double #2",
+      "tags": [],
+      "asset": {
+        "id": "-K5uq-UbbK1F_K1V3COn",
+        "name": "PLET double",
+        "params": {
+          "top": -3.9968163516118564,
+          "left": -1.266456961631775,
+          "scale": 1,
+          "width": 2.5227878093719482,
+          "height": 7.170224700502899,
+          "isGLTF": true,
+          "minimumSocketSize": 0.25
+        },
+        "shared": true,
+        "subType": "piping",
+        "category": "Pipeline and Pipeline Assets",
+        "imageUrl": "https://storage.googleapis.com/ft-qa-master-bucket/assets/custom-library/generic/2D/5637e08c39ec--K5uq-UbbK1F_K1V3COn.svg?GoogleAccessId=ft-qa-master-jsonapi%40fieldapp-qa.iam.gserviceaccount.com&Expires=1698310090&Signature=o6RHX%2BHuFRM6OowXOFCeuzF0nHu122FJxManR24MAc2BJHsdMAOXNUoehbm9y7PWMIBwO%2FCmh7ZvtIzW9P9T18thqX8prKtbnVBeJFtvG0rXriDkAl15AFEtsi9TsVSCupm%2BgrXcqjIhSPMrXjgGqGd20oWeaeMQJre0mS9lcMiLZ7o%2B%2FOgUPA0m2jm76e2pBC%2BsoadKzRlmB0Yol8tUFTztsdF10zJm0RM3RnA27xq3qkLH8wR8H40ObWS0FAWfcbT0FmdkTdaosNv9BLMWbvB0z4cBvpBHmbLFFQ427rj%2BKS%2B%2Fvip8Iq9k%2B3UpEvhnpA1SuTCLxuk8wIa3u37bNg%3D%3D",
+        "sockets2d": [
+          {
+            "name": "b",
+            "x": 0.47407,
+            "y": 3.077799,
+            "z": 0.5135
+          },
+          {
+            "name": "a",
+            "x": 0.000255,
+            "y": -3.892426,
+            "z": 0.513496
+          },
+          {
+            "name": "c",
+            "x": -0.475962,
+            "y": 3.077799,
+            "z": 0.5135
+          }
+        ],
+        "filename2D": "PLET_Double.svg - Thu, 08 Oct 2020 12:11:54 GMT",
+        "filename3D": "PLET_Double_draco.glb - Thu, 08 Oct 2020 11:35:02 GMT",
+        "model3dUrl": "https://storage.googleapis.com/ft-qa-master-bucket/assets/custom-library/generic/3D/ac3ca73c0666--K5uq-UbbK1F_K1V3COn.json?GoogleAccessId=ft-qa-master-jsonapi%40fieldapp-qa.iam.gserviceaccount.com&Expires=1698310090&Signature=Fqt8oMStUnNx4jw1ARTKoRdNmeKDujcZ8DcdRZId%2BjSWujlFR0B1sYCJYwAzjhrUzPdK6sUrURk1WHNu8ja3xijc%2B527fYeWo5fJaIMw2UW7ryNNNTZekVOiVXUfKtfwLbNEF7hwZKI9rJcVHtl6veMqCrEAfNhVu5Ekt%2BPcpIGdozMUTzQm%2BcL3XHyNCUg3DIEuujYM2G8EFFJCChcd2%2F8e6Upw1FFouicqPhg8mScFfi57U80TGIm1%2BELXlBEjPd77EyAQj993j%2Bhh1cRqCO6TXxXkqJUiODNTWwt0e8RIYYQXY5WxSpExc0EQIzLJ6QeBvJ5mQhNiBIeBx2FQOg%3D%3D",
+        "description": "",
+        "dockingMales": [],
+        "type": "structure"
+      },
+      "created": "2023-10-02T09:38:18.184Z",
+      "creator": "upgrade-script",
+      "virtual": false,
+      "visible": true,
+      "isLocked": false,
+      "textColor": "#FFF",
+      "costObject": {
+        "value": 0,
+        "locked": false,
+        "entries": [],
+        "currency": "USD",
+        "costPerDay": 0,
+        "costByLength": false,
+        "costPerLengthUnit": 1
+      },
+      "isInactive": false,
+      "subProject": "-MA1551S-odms4rVbJ8B",
+      "clonedFroms": [
+        "-La-lC6wVzq5MUVHcBZk"
+      ],
+      "hiddenLabel": false,
+      "renderOrder": 0,
+      "importParams": {},
+      "initialState": {
+        "x": 503547.76002200856,
+        "y": 6666886.775059844,
+        "scale": 1,
+        "width": 2.5228,
+        "height": 2.5228,
+        "rotation": 0,
+        "z": -125.82512286178542
+      },
+      "showMetaInfo": false,
+      "customResults": {},
+      "isValidForCost": true,
+      "perAssetParams": {
+        "fontSize": 16
+      },
+      "showDescription": false,
+      "showCustomResults": false,
+      "havePerAssetSockets": false,
+      "wellmasterConfiguration": {},
+      "connectionsAsFrom": {},
+      "connectionsAsTo": {
+        "-MA1551S-odms4rVbJ8k": true,
+        "-MA1551S-odms4rVbJ8l": true
+      },
+      "shapes": {},
+      "metaData": [],
+      "sockets2d": [
+        {
+          "x": 0.47407,
+          "y": 3.077799,
+          "z": 0.5135,
+          "name": "b",
+          "metaData": []
+        },
+        {
+          "x": 0.000255,
+          "y": -3.892426,
+          "z": 0.513496,
+          "name": "a",
+          "metaData": []
+        },
+        {
+          "x": -0.475962,
+          "y": 3.077799,
+          "z": 0.5135,
+          "name": "c",
+          "metaData": []
+        }
+      ]
+    },
+    "-MA1551S-odms4rVbJ8U": {
+      "id": "-MA1551S-odms4rVbJ8U",
+      "name": "PLET single #1",
+      "tags": [],
+      "asset": {
+        "id": "-K5uq-UNzfoeiOrhxXaQ",
+        "name": "PLET single",
+        "params": {
+          "top": -3.487003086581166,
+          "left": -1.2661839723587036,
+          "scale": 1,
+          "width": 2.5227878093719482,
+          "height": 7.180854589565051,
+          "isGLTF": true,
+          "minimumSocketSize": 0.25
+        },
+        "shared": true,
+        "subType": "piping",
+        "category": "Pipeline and Pipeline Assets",
+        "imageUrl": "https://storage.googleapis.com/ft-qa-master-bucket/assets/custom-library/generic/2D/ff331470a693--K5uq-UNzfoeiOrhxXaQ.svg?GoogleAccessId=ft-qa-master-jsonapi%40fieldapp-qa.iam.gserviceaccount.com&Expires=1698310090&Signature=V%2FL9gC9f%2BqViNmlRXL8RTGh5pEbCo42YVLtRbRA12%2Bwf%2BuZY4VfMxQ1eZba1oW3ofpRbu7cIWz2w4s9ONdv4356CB6Nea4FCGtYj4XfoZK6KndzLuwYVIKWbh8aNlva9Vv9jPibxYCmVfDefkppi0twe6QQ58yeg6SkqrorbW2JNjPKOsIGfKn0uWQgWwAtMSO%2BuS6ZRQZOWNeWS9XnBoT6lKd8Rpqm27iPc40z1Cbwaz0pQxi5BP9MlDRCVxl9aJlFmmt8UxwXaIGfTQPsxA42rKVhcBb6zPtQmNJQcthVUTbyCijGV9Fx3rAaPmnYo5dENkPvr3MVXpwHWQAKHtA%3D%3D",
+        "sockets2d": [
+          {
+            "name": "b",
+            "x": 0.000447,
+            "y": 3.587576,
+            "z": 0.5135
+          },
+          {
+            "name": "a",
+            "x": 0.000457,
+            "y": -3.382644,
+            "z": 0.513496
+          }
+        ],
+        "filename2D": "PLET_Single.svg - Thu, 08 Oct 2020 17:16:21 GMT",
+        "filename3D": "PLET_Single_draco.glb - Thu, 08 Oct 2020 17:09:13 GMT",
+        "model3dUrl": "https://storage.googleapis.com/ft-qa-master-bucket/assets/custom-library/generic/3D/fd866f43a5a9--K5uq-UNzfoeiOrhxXaQ.json?GoogleAccessId=ft-qa-master-jsonapi%40fieldapp-qa.iam.gserviceaccount.com&Expires=1698310090&Signature=b57MU5iq0vz6xcuKJZkjqcMDvbvhMrQ1pLdfkHjS7i8sZr9gbpiQY7xpCBmdzaA1TxmHAxXc12j9wlFok4DqYLqiUWEpwq1QNepI59YAvFA47sSkoRKGlmoZHj3IMv7gdx%2F%2FBd0cyp0ZzfsrdCInfs68Bf8t28r3U0SxnLzbufasUy4wNIjYzJI1TkLI2HhjN7R31S96qwP%2BzthPZWtybVvahEvpPHatR85xMInJL%2F1Ap1StAQ0bafNBMFqSrz6Wkslv1x%2BPOs35lOy88aryv%2FZ7MwKCZR5WMUOQ6VjuwZrAPEXWIfbdHUxJlHKqAsBTIxrtQpBqeYHYwtxyMgwwKA%3D%3D",
+        "description": "",
+        "dockingMales": [],
+        "type": "structure"
+      },
+      "created": "2023-10-02T09:38:18.184Z",
+      "creator": "upgrade-script",
+      "virtual": false,
+      "visible": true,
+      "isLocked": false,
+      "textColor": "#FFF",
+      "costObject": {
+        "value": 0,
+        "locked": false,
+        "entries": [],
+        "currency": "USD",
+        "costPerDay": 0,
+        "costByLength": false,
+        "costPerLengthUnit": 1
+      },
+      "isInactive": false,
+      "subProject": "-MA1551S-odms4rVbJ8B",
+      "clonedFroms": [
+        "-La-lE4hTin7nYeRUaMa"
+      ],
+      "hiddenLabel": false,
+      "renderOrder": 0,
+      "importParams": {},
+      "initialState": {
+        "x": 503608.09486672864,
+        "y": 6666906.2517088335,
+        "scale": 1,
+        "width": 2.5227,
+        "height": 2.5227,
+        "rotation": 89.99998635091526,
+        "z": -126.04294418539786
+      },
+      "showMetaInfo": false,
+      "customResults": {},
+      "isValidForCost": true,
+      "perAssetParams": {
+        "fontSize": 16
+      },
+      "showDescription": false,
+      "showCustomResults": false,
+      "havePerAssetSockets": false,
+      "wellmasterConfiguration": {},
+      "connectionsAsFrom": {
+        "-MA1551S-odms4rVbJ8k": true
+      },
+      "connectionsAsTo": {},
+      "shapes": {},
+      "metaData": [],
+      "sockets2d": [
+        {
+          "x": 0.000447,
+          "y": 3.587576,
+          "z": 0.5135,
+          "name": "b",
+          "metaData": []
+        },
+        {
+          "x": 0.000457,
+          "y": -3.382644,
+          "z": 0.513496,
+          "name": "a",
+          "metaData": []
+        }
+      ]
+    },
+    "-MA1551S-odms4rVbJ8V": {
+      "id": "-MA1551S-odms4rVbJ8V",
+      "name": "SSIV #5",
+      "tags": [],
+      "asset": {
+        "id": "-K5uq-UetI-GueOga-4k",
+        "name": "SSIV",
+        "params": {
+          "top": -1.422477,
+          "left": -2.966155,
+          "scale": 1,
+          "width": 5.9021,
+          "height": 2.7936
+        },
+        "shared": true,
+        "subType": "piping",
+        "category": "Valve",
+        "imageUrl": "https://storage.googleapis.com/ft-qa-master-bucket/assets/custom-library/generic/2D/242f7a7b72b8--K5uq-UetI-GueOga-4k.svg?GoogleAccessId=ft-qa-master-jsonapi%40fieldapp-qa.iam.gserviceaccount.com&Expires=1698310090&Signature=WD%2F8XrWnAdDRy3CAYU3yqFf80VTjbtpINaEbNgUhx1auYuWpeIStgL%2FUTVNIkCEGv078QfYBKzIp75Kvc%2FtrujcP0EuqkvYAPwogaMxgaHdrGFflLmY27%2FFPWojTVqVWR%2BkEPkyLrv5UuQZzX02tLnRQgrfxMue1JF1SbeHK%2Bxbqp1M3%2BtEdWAfNth7HWkYkKFqz%2FtlBJ%2FDvez7B9zXcLrdsdU7G8chWKaLytsUacCo%2Fzt666KA7XCoumWyW%2BRMfIXGFEzkiWhGKK6cHFOgCOQCisL1XhSvfRZXAKAFS07GLd3WDEDSVOOh4RJCOAxwiobfbPJ24Unsq5bSTKzDi%2Fw%3D%3D",
+        "sockets2d": [
+          {
+            "name": "a",
+            "x": -2.966111,
+            "y": 0.010651,
+            "z": 0.990768
+          },
+          {
+            "name": "b",
+            "x": 2.936002,
+            "y": 0.010636,
+            "z": 1.001537
+          }
+        ],
+        "model3dUrl": "https://storage.googleapis.com/ft-qa-master-bucket/assets/custom-library/generic/3D/99a79643ebfb--K5uq-UetI-GueOga-4k.json?GoogleAccessId=ft-qa-master-jsonapi%40fieldapp-qa.iam.gserviceaccount.com&Expires=1698310090&Signature=jpP5a4z2Et8bz481M3xcg1sQqUEa9%2F%2FZllbmkhOLcKOa0XgcjWKSkIyIpgcp%2F%2BDA0TG%2Bg%2BTzDPdUTDiOgwd1ls1R9dOalwxCNzVU1LeXxAGTPApNg9Mo%2Fr6LTe7SMs3ioZAZQIKB2xN%2B5ze3IeX4rnJWyxf%2BPMI2KubdYXjHroJJbFMBvRppxQUvRx2PU3Y9GnRJ98bIF8ONpFrR8%2FvVS%2FZr%2F020vNheQFDELyn8ypYpRaSxdhxkrD8qNPVmLPKVpQiKQf2Pvfl%2BDMSOSSTsQjy%2FaKyh9NlpPNhieuM5hiF69Q6b8yK33g0JpVUnlhWWgisEW2TVB3VsiNpovxxWUw%3D%3D",
+        "description": "",
+        "dockingMales": [],
+        "type": "structure"
+      },
+      "created": "2023-10-02T09:38:18.184Z",
+      "creator": "upgrade-script",
+      "virtual": false,
+      "visible": true,
+      "isLocked": false,
+      "textColor": "#FFF",
+      "costObject": {
+        "value": 0,
+        "locked": false,
+        "entries": [],
+        "currency": "USD",
+        "costPerDay": 0,
+        "costByLength": false,
+        "costPerLengthUnit": 1
+      },
+      "isInactive": false,
+      "subProject": "-MA1551S-odms4rVbJ8B",
+      "clonedFroms": [
+        "-La-lUMQCK_FNBUE-WTU"
+      ],
+      "hiddenLabel": false,
+      "renderOrder": 0,
+      "importParams": {},
+      "initialState": {
+        "x": 503548.7409102771,
+        "y": 6666855.202726169,
+        "scale": 1,
+        "width": 5.9021,
+        "height": 5.9021,
+        "rotation": 89.46373060998576,
+        "z": -125.78647014625169
+      },
+      "showMetaInfo": false,
+      "customResults": {},
+      "isValidForCost": true,
+      "perAssetParams": {
+        "fontSize": 16
+      },
+      "showDescription": false,
+      "showCustomResults": false,
+      "havePerAssetSockets": false,
+      "wellmasterConfiguration": {},
+      "connectionsAsFrom": {
+        "-MA1551S-odms4rVbJ8l": true
+      },
+      "connectionsAsTo": {},
+      "shapes": {},
+      "metaData": [],
+      "sockets2d": [
+        {
+          "x": -2.966111,
+          "y": 0.010651,
+          "z": 0.990768,
+          "name": "a",
+          "metaData": []
+        },
+        {
+          "x": 2.936002,
+          "y": 0.010636,
+          "z": 1.001537,
+          "name": "b",
+          "metaData": []
+        }
+      ]
+    }
+  },
+  "connections": {
+    "-MA1551S-odms4rVbJ8W": {
+      "id": "-MA1551S-odms4rVbJ8W",
+      "to": "-MA1551S-odms4rVbJ8D",
+      "from": "-MA1551S-odms4rVbJ8E",
+      "tags": [],
+      "params": {
+        "None": {
+          "lastSegment": {
+            "path": "M 0.6085719685447089 19.990738859759574 L 114.83864736350034 16.51326749975624",
+            "length": 114.28333567436175
+          },
+          "bendingParameters": [
+            {
+              "x": 31.267555544385687,
+              "y": -1.942574285902083,
+              "t0": {
+                "x": 0.6200792078443591,
+                "y": 9.980756573326449
+              },
+              "t1": {
+                "x": 7.204061262063835,
+                "y": 6.9355245895628705
+              },
+              "normal": {
+                "x": -0.062007920784435754,
+                "y": -0.9980756573326449
+              },
+              "radius": 10,
+              "bendPath": "M 0.6200792078443591 -9.980756573326449 L 2.4518438950932597 -9.694751809826776 L 4.19813407915269 -9.07605728282115 L 5.70456724916964 -8.211312908385679 L 7.204061262063835 -6.9355245895628705",
+              "bendLength": 7.423399886328478,
+              "segmentPath": "M -30.647476336541327 -11.923330859228532 L 0.6200792078443591 -9.980756573326445",
+              "segmentLength": 31.327857807822717
+            },
+            {
+              "x": 137.14096283272374,
+              "y": -108.12162013258785,
+              "t0": {
+                "x": -14.408122524127663,
+                "y": -13.871049179125748
+              },
+              "t1": {
+                "x": 0.6085719685447089,
+                "y": -19.990738859759574
+              },
+              "normal": {
+                "x": 0.7204061262063834,
+                "y": 0.6935524589562873
+              },
+              "radius": 20,
+              "bendPath": "M -14.408122524127663 13.871049179125748 L -11.220065410947399 16.556062463453504 L -9.434931577903773 17.634472434744147 L -7.547157336028942 18.520924524431326 L -5.577495920343933 19.20654859787172 L -3.545496583059239 19.676213524135715 L -1.7373772625199366 19.924502862875112 L 0.6085719685447089 19.990738859759574",
+              "bendLength": 16.69642021819805,
+              "segmentPath": "M -113.69754775824624 -89.26276468379643 L -14.408122524127691 13.871049179125748",
+              "segmentLength": 143.16066439912913
+            }
+          ]
+        },
+        "type": 2,
+        "label": "Oil Production b #1",
+        "showFlow": true,
+        "textFollowConnection": true
+      },
+      "created": "2023-10-02T09:38:24.991Z",
+      "creator": "upgrade-script",
+      "opacity": 1,
+      "visible": true,
+      "bendable": true,
+      "isLocked": false,
+      "straight": false,
+      "toSocket": "a",
+      "showLabel": true,
+      "costObject": {
+        "locked": false,
+        "entries": [],
+        "currency": "USD",
+        "costPerDay": 0,
+        "costByLength": false,
+        "costPerLengthUnit": 1
+      },
+      "designType": "None",
+      "fromSocket": "b",
+      "isInactive": false,
+      "showLength": false,
+      "subProject": "-MA1551S-odms4rVbJ8B",
+      "clonedFroms": [
+        "-La-LVaumP2uMnxlF59b"
+      ],
+      "renderOrder": 0,
+      "importParams": {},
+      "showMetaInfo": false,
+      "toCoordinate": {
+        "x": 501986.56713575264,
+        "y": 6666545.204179208,
+        "z": -119.90406868726892
+      },
+      "customResults": {},
+      "fromCoordinate": {
+        "x": 501763.07410973473,
+        "y": 6666652.710851463,
+        "z": -119.71284061426061
+      },
+      "isValidForCost": true,
+      "noHeightSampling": false,
+      "showCustomResults": false,
+      "visualisationMaps": [],
+      "intermediaryPoints": [
+        {
+          "x": 501724.3153758903,
+          "y": 6666578.957059096,
+          "index": 0,
+          "bendParams": {
+            "x": 501724.3153758903,
+            "y": 6666578.957059096,
+            "t0": {
+              "x": -44.260507918079384,
+              "y": 23.259566608816385
+            },
+            "t1": {
+              "x": -11.550996025733184,
+              "y": -48.647451020777225
+            },
+            "normal": {
+              "x": 0.8852101583616855,
+              "y": -0.46519133217771785
+            },
+            "radius": 50,
+            "bendLength": 91.0760619445872,
+            "segmentLength": 83.31795191927752
+          }
+        },
+        {
+          "x": 501906.671189645,
+          "y": 6666471.517576726,
+          "index": 1,
+          "bendParams": {
+            "x": 501906.671189645,
+            "y": 6666471.517576726,
+            "t0": {
+              "x": -11.550996025733184,
+              "y": -48.647451020777225
+            },
+            "t1": {
+              "x": 44.750163293269,
+              "y": -22.302979290485382
+            },
+            "normal": {
+              "x": 0.23101992051468836,
+              "y": 0.9729490204144239
+            },
+            "radius": 50,
+            "bendLength": 67.07821771905685,
+            "segmentLength": 153.80694910566228
+          }
+        }
+      ],
+      "connectionSegments": {},
+      "shapes": {},
+      "length": 448.53811869540795,
+      "metaData": [],
+      "connectionType": {
+        "id": 2,
+        "name": "Oil Production",
+        "color": "#ff0000",
+        "params": {
+          "width": 0.5
+        },
+        "symbol": "O",
+        "category": 2,
+        "_treeElementId": "#ember19993"
+      },
+      "definition": {
+        "id": 2,
+        "name": "Oil Production",
+        "color": "#ff0000",
+        "params": {
+          "width": 0.5
+        },
+        "symbol": "O",
+        "category": {
+          "id": 2,
+          "name": "Production"
+        },
+        "_treeElementId": "#ember19993"
+      },
+      "designName": "None",
+      "renderAs": "Standard"
+    },
+    "-MA1551S-odms4rVbJ8X": {
+      "id": "-MA1551S-odms4rVbJ8X",
+      "to": "-MA1551S-odms4rVbJ8F",
+      "from": "-MA1551S-odms4rVbJ8G",
+      "tags": [],
+      "params": {
+        "type": 2,
+        "label": "Oil Production b #2",
+        "showFlow": true,
+        "textFollowConnection": true
+      },
+      "created": "2023-10-02T09:38:24.991Z",
+      "creator": "upgrade-script",
+      "opacity": 1,
+      "visible": true,
+      "bendable": false,
+      "isLocked": false,
+      "straight": false,
+      "toSocket": "b",
+      "showLabel": true,
+      "costObject": {
+        "locked": false,
+        "entries": [],
+        "currency": "USD",
+        "costPerDay": 0,
+        "costByLength": false,
+        "costPerLengthUnit": 1
+      },
+      "designType": "None",
+      "fromSocket": "c",
+      "isInactive": false,
+      "showLength": false,
+      "subProject": "-MA1551S-odms4rVbJ8B",
+      "clonedFroms": [
+        "-La-dUhMtBtPNG-5E9cN"
+      ],
+      "renderOrder": 0,
+      "importParams": {},
+      "showMetaInfo": false,
+      "toCoordinate": {
+        "x": 501910.0636404608,
+        "y": 6666591.399991882,
+        "z": -118.13793597594784
+      },
+      "customResults": {},
+      "fromCoordinate": {
+        "x": 501914.9710365372,
+        "y": 6666643.838815962,
+        "z": -120.36215278908846
+      },
+      "isValidForCost": true,
+      "noHeightSampling": false,
+      "showCustomResults": false,
+      "visualisationMaps": [],
+      "intermediaryPoints": [],
+      "connectionSegments": {},
+      "shapes": {},
+      "length": 53.21229910969148,
+      "metaData": [],
+      "connectionType": {
+        "id": 2,
+        "name": "Oil Production",
+        "color": "#ff0000",
+        "params": {
+          "width": 0.5
+        },
+        "symbol": "O",
+        "category": 2,
+        "_treeElementId": "#ember19993"
+      },
+      "definition": {
+        "id": 2,
+        "name": "Oil Production",
+        "color": "#ff0000",
+        "params": {
+          "width": 0.5
+        },
+        "symbol": "O",
+        "category": {
+          "id": 2,
+          "name": "Production"
+        },
+        "_treeElementId": "#ember19993"
+      },
+      "designName": "None",
+      "renderAs": "Standard"
+    },
+    "-MA1551S-odms4rVbJ8Y": {
+      "id": "-MA1551S-odms4rVbJ8Y",
+      "to": "-MA1551S-odms4rVbJ8G",
+      "from": "-MA1551S-odms4rVbJ8H",
+      "tags": [],
+      "params": {
+        "type": 2,
+        "label": "Oil Production b #3",
+        "showFlow": true,
+        "textFollowConnection": true,
+        "textFollowConnectionFlip": true,
+        "textFollowConnectionOffset": 0.33
+      },
+      "created": "2023-10-02T09:38:24.991Z",
+      "creator": "upgrade-script",
+      "opacity": 1,
+      "visible": true,
+      "bendable": false,
+      "isLocked": false,
+      "straight": false,
+      "toSocket": "a",
+      "showLabel": true,
+      "costObject": {
+        "locked": false,
+        "entries": [],
+        "currency": "USD",
+        "costPerDay": 0,
+        "costByLength": false,
+        "costPerLengthUnit": 1
+      },
+      "designType": "None",
+      "fromSocket": "c",
+      "isInactive": false,
+      "showLength": false,
+      "subProject": "-MA1551S-odms4rVbJ8B",
+      "clonedFroms": [
+        "-La-daDc75Mg55BP91tp"
+      ],
+      "renderOrder": 0,
+      "importParams": {},
+      "showMetaInfo": false,
+      "toCoordinate": {
+        "x": 501915.44725353713,
+        "y": 6666650.80904096,
+        "z": -120.36215678908842
+      },
+      "customResults": {},
+      "fromCoordinate": {
+        "x": 501944.7305293445,
+        "y": 6666736.279186786,
+        "z": -120.83127843297564
+      },
+      "isValidForCost": true,
+      "noHeightSampling": false,
+      "showCustomResults": false,
+      "visualisationMaps": [],
+      "intermediaryPoints": [
+        {
+          "x": 501924.1949920922,
+          "y": 6666710.127209393,
+          "index": 0,
+          "bendParams": {
+            "radius": 10
+          }
+        }
+      ],
+      "connectionSegments": {},
+      "shapes": {},
+      "length": 93.58406990388875,
+      "metaData": [],
+      "connectionType": {
+        "id": 2,
+        "name": "Oil Production",
+        "color": "#ff0000",
+        "params": {
+          "width": 0.5
+        },
+        "symbol": "O",
+        "category": 2,
+        "_treeElementId": "#ember19993"
+      },
+      "definition": {
+        "id": 2,
+        "name": "Oil Production",
+        "color": "#ff0000",
+        "params": {
+          "width": 0.5
+        },
+        "symbol": "O",
+        "category": {
+          "id": 2,
+          "name": "Production"
+        },
+        "_treeElementId": "#ember19993"
+      },
+      "designName": "None",
+      "renderAs": "Standard"
+    },
+    "-MA1551S-odms4rVbJ8Z": {
+      "id": "-MA1551S-odms4rVbJ8Z",
+      "to": "-MA1551S-odms4rVbJ8I",
+      "from": "-MA1551S-odms4rVbJ8H",
+      "tags": [],
+      "params": {
+        "type": 2,
+        "label": "Oil Production b #4",
+        "showFlow": true,
+        "textFollowConnection": true,
+        "textFollowConnectionFlip": true,
+        "textFollowConnectionOffset": 0.33
+      },
+      "created": "2023-10-02T09:38:24.991Z",
+      "creator": "upgrade-script",
+      "opacity": 1,
+      "visible": true,
+      "bendable": false,
+      "isLocked": false,
+      "straight": false,
+      "toSocket": "a",
+      "showLabel": true,
+      "costObject": {
+        "locked": false,
+        "entries": [],
+        "currency": "USD",
+        "costPerDay": 0,
+        "costByLength": false,
+        "costPerLengthUnit": 1
+      },
+      "designType": "None",
+      "fromSocket": "a",
+      "isInactive": false,
+      "showLength": false,
+      "subProject": "-MA1551S-odms4rVbJ8B",
+      "clonedFroms": [
+        "-La-dmX726WwqOlE8YWS"
+      ],
+      "renderOrder": 0,
+      "importParams": {},
+      "showMetaInfo": false,
+      "toCoordinate": {
+        "x": 501765.79374346655,
+        "y": 6666710.715830999,
+        "z": -119.80862272400115
+      },
+      "customResults": {},
+      "fromCoordinate": {
+        "x": 501944.73593634454,
+        "y": 6666745.725307786,
+        "z": -120.83811043297564
+      },
+      "isValidForCost": true,
+      "noHeightSampling": false,
+      "showCustomResults": false,
+      "visualisationMaps": [],
+      "intermediaryPoints": [
+        {
+          "x": 501941.38266968034,
+          "y": 6666774.93558479,
+          "index": 0,
+          "bendParams": {
+            "radius": 10
+          }
+        },
+        {
+          "x": 501816.2644966694,
+          "y": 6666712.497200141,
+          "index": 1,
+          "bendParams": {
+            "radius": 10
+          }
+        }
+      ],
+      "connectionSegments": {},
+      "shapes": {},
+      "length": 222.3113347473037,
+      "metaData": [],
+      "connectionType": {
+        "id": 2,
+        "name": "Oil Production",
+        "color": "#ff0000",
+        "params": {
+          "width": 0.5
+        },
+        "symbol": "O",
+        "category": 2,
+        "_treeElementId": "#ember19993"
+      },
+      "definition": {
+        "id": 2,
+        "name": "Oil Production",
+        "color": "#ff0000",
+        "params": {
+          "width": 0.5
+        },
+        "symbol": "O",
+        "category": {
+          "id": 2,
+          "name": "Production"
+        },
+        "_treeElementId": "#ember19993"
+      },
+      "designName": "None",
+      "renderAs": "Standard"
+    },
+    "-MA1551S-odms4rVbJ8_": {
+      "id": "-MA1551S-odms4rVbJ8_",
+      "to": "-MA1551S-odms4rVbJ8M",
+      "from": "-MA1551S-odms4rVbJ8L",
+      "tags": [],
+      "params": {
+        "type": 2,
+        "label": "Oil Production b #5",
+        "showFlow": true,
+        "textFollowConnection": true
+      },
+      "created": "2023-10-02T09:38:24.991Z",
+      "creator": "upgrade-script",
+      "opacity": 1,
+      "visible": true,
+      "bendable": false,
+      "isLocked": false,
+      "straight": false,
+      "toSocket": "f",
+      "showLabel": true,
+      "costObject": {
+        "locked": false,
+        "entries": [],
+        "currency": "USD",
+        "costPerDay": 0,
+        "costByLength": false,
+        "costPerLengthUnit": 1
+      },
+      "designType": "None",
+      "fromSocket": "b",
+      "isInactive": false,
+      "showLength": false,
+      "subProject": "-MA1551S-odms4rVbJ8B",
+      "clonedFroms": [
+        "-La-eIO_TeYzaNeJWTO9"
+      ],
+      "renderOrder": 0,
+      "importParams": {},
+      "showMetaInfo": false,
+      "toCoordinate": {
+        "x": 502124.5388548285,
+        "y": 6666704.041620121,
+        "z": -118.83932886433405
+      },
+      "customResults": {},
+      "fromCoordinate": {
+        "x": 502000.1935412503,
+        "y": 6666696.274674577,
+        "z": -120.14695235926251
+      },
+      "isValidForCost": true,
+      "noHeightSampling": false,
+      "showCustomResults": false,
+      "visualisationMaps": [],
+      "intermediaryPoints": [],
+      "connectionSegments": {},
+      "shapes": {},
+      "length": 125.2296957483776,
+      "metaData": [],
+      "connectionType": {
+        "id": 2,
+        "name": "Oil Production",
+        "color": "#ff0000",
+        "params": {
+          "width": 0.5
+        },
+        "symbol": "O",
+        "category": 2,
+        "_treeElementId": "#ember19993"
+      },
+      "definition": {
+        "id": 2,
+        "name": "Oil Production",
+        "color": "#ff0000",
+        "params": {
+          "width": 0.5
+        },
+        "symbol": "O",
+        "category": {
+          "id": 2,
+          "name": "Production"
+        },
+        "_treeElementId": "#ember19993"
+      },
+      "designName": "None",
+      "renderAs": "Standard"
+    },
+    "-MA1551S-odms4rVbJ8a": {
+      "id": "-MA1551S-odms4rVbJ8a",
+      "to": "-MA1551S-odms4rVbJ8N",
+      "from": "-MA1551S-odms4rVbJ8M",
+      "tags": [],
+      "params": {
+        "type": 2,
+        "label": "Oil Production b #6",
+        "showFlow": true,
+        "textFollowConnection": true
+      },
+      "created": "2023-10-02T09:38:24.991Z",
+      "creator": "upgrade-script",
+      "opacity": 1,
+      "visible": true,
+      "bendable": false,
+      "isLocked": false,
+      "straight": false,
+      "toSocket": "c",
+      "showLabel": true,
+      "costObject": {
+        "locked": false,
+        "entries": [],
+        "currency": "USD",
+        "costPerDay": 0,
+        "costByLength": false,
+        "costPerLengthUnit": 1
+      },
+      "designType": "None",
+      "fromSocket": "b",
+      "isInactive": false,
+      "showLength": false,
+      "subProject": "-MA1551S-odms4rVbJ8B",
+      "clonedFroms": [
+        "-La-eM60VblgZrDtlQ6Q"
+      ],
+      "renderOrder": 0,
+      "importParams": {},
+      "showMetaInfo": false,
+      "toCoordinate": {
+        "x": 502114.5806544083,
+        "y": 6666777.578853398,
+        "z": -121.30840437842956
+      },
+      "customResults": {},
+      "fromCoordinate": {
+        "x": 502126.8822838285,
+        "y": 6666710.708553123,
+        "z": -118.84386786433403
+      },
+      "isValidForCost": true,
+      "noHeightSampling": false,
+      "showCustomResults": false,
+      "visualisationMaps": [],
+      "intermediaryPoints": [
+        {
+          "x": 502106.1255313431,
+          "y": 6666752.146470117,
+          "index": 0,
+          "bendParams": {
+            "radius": 50
+          }
+        }
+      ],
+      "connectionSegments": {},
+      "shapes": {},
+      "length": 74.05193879229276,
+      "metaData": [],
+      "connectionType": {
+        "id": 2,
+        "name": "Oil Production",
+        "color": "#ff0000",
+        "params": {
+          "width": 0.5
+        },
+        "symbol": "O",
+        "category": 2,
+        "_treeElementId": "#ember19993"
+      },
+      "definition": {
+        "id": 2,
+        "name": "Oil Production",
+        "color": "#ff0000",
+        "params": {
+          "width": 0.5
+        },
+        "symbol": "O",
+        "category": {
+          "id": 2,
+          "name": "Production"
+        },
+        "_treeElementId": "#ember19993"
+      },
+      "designName": "None",
+      "renderAs": "Standard"
+    },
+    "-MA1551S-odms4rVbJ8b": {
+      "id": "-MA1551S-odms4rVbJ8b",
+      "to": "-MA1551S-odms4rVbJ8O",
+      "from": "-MA1551S-odms4rVbJ8M",
+      "tags": [],
+      "params": {
+        "type": 2,
+        "label": "Oil Production b #7",
+        "showFlow": true,
+        "textFollowConnection": true
+      },
+      "created": "2023-10-02T09:38:24.991Z",
+      "creator": "upgrade-script",
+      "opacity": 1,
+      "visible": true,
+      "bendable": false,
+      "isLocked": false,
+      "straight": false,
+      "toSocket": "f",
+      "showLabel": true,
+      "costObject": {
+        "locked": false,
+        "entries": [],
+        "currency": "USD",
+        "costPerDay": 0,
+        "costByLength": false,
+        "costPerLengthUnit": 1
+      },
+      "designType": "None",
+      "fromSocket": "i",
+      "isInactive": false,
+      "showLength": false,
+      "subProject": "-MA1551S-odms4rVbJ8B",
+      "clonedFroms": [
+        "-La-eNg42DyR4vDf9fLG"
+      ],
+      "renderOrder": 0,
+      "importParams": {},
+      "showMetaInfo": false,
+      "toCoordinate": {
+        "x": 502207.7384374744,
+        "y": 6666701.806470378,
+        "z": -119.03516952579248
+      },
+      "customResults": {},
+      "fromCoordinate": {
+        "x": 502131.2063708285,
+        "y": 6666705.064573124,
+        "z": -118.83865586433403
+      },
+      "isValidForCost": true,
+      "noHeightSampling": false,
+      "showCustomResults": false,
+      "visualisationMaps": [],
+      "intermediaryPoints": [],
+      "connectionSegments": {},
+      "shapes": {},
+      "length": 77.51240366823248,
+      "metaData": [],
+      "connectionType": {
+        "id": 2,
+        "name": "Oil Production",
+        "color": "#ff0000",
+        "params": {
+          "width": 0.5
+        },
+        "symbol": "O",
+        "category": 2,
+        "_treeElementId": "#ember19993"
+      },
+      "definition": {
+        "id": 2,
+        "name": "Oil Production",
+        "color": "#ff0000",
+        "params": {
+          "width": 0.5
+        },
+        "symbol": "O",
+        "category": {
+          "id": 2,
+          "name": "Production"
+        },
+        "_treeElementId": "#ember19993"
+      },
+      "designName": "None",
+      "renderAs": "Standard"
+    },
+    "-MA1551S-odms4rVbJ8c": {
+      "id": "-MA1551S-odms4rVbJ8c",
+      "to": "-MA1551S-odms4rVbJ8M",
+      "from": "-MA1551S-odms4rVbJ8P",
+      "tags": [],
+      "params": {
+        "type": 2,
+        "label": "Oil Production b #8",
+        "showFlow": true,
+        "textFollowConnection": true
+      },
+      "created": "2023-10-02T09:38:24.992Z",
+      "creator": "upgrade-script",
+      "opacity": 1,
+      "visible": true,
+      "bendable": false,
+      "isLocked": false,
+      "straight": false,
+      "toSocket": "n",
+      "showLabel": true,
+      "costObject": {
+        "locked": false,
+        "entries": [],
+        "currency": "USD",
+        "costPerDay": 0,
+        "costByLength": false,
+        "costPerLengthUnit": 1
+      },
+      "designType": "None",
+      "fromSocket": "b",
+      "isInactive": false,
+      "showLength": false,
+      "subProject": "-MA1551S-odms4rVbJ8B",
+      "clonedFroms": [
+        "-La-ePVNq9nWbjGjapgy"
+      ],
+      "renderOrder": 0,
+      "importParams": {},
+      "showMetaInfo": false,
+      "toCoordinate": {
+        "x": 502128.88827982836,
+        "y": 6666697.374952125,
+        "z": -118.84380886433397
+      },
+      "customResults": {},
+      "fromCoordinate": {
+        "x": 501992.6966818103,
+        "y": 6666659.618274913,
+        "z": -118.44287756863001
+      },
+      "isValidForCost": true,
+      "noHeightSampling": false,
+      "showCustomResults": false,
+      "visualisationMaps": [],
+      "intermediaryPoints": [],
+      "connectionSegments": {},
+      "shapes": {},
+      "length": 142.24281594754123,
+      "metaData": [],
+      "connectionType": {
+        "id": 2,
+        "name": "Oil Production",
+        "color": "#ff0000",
+        "params": {
+          "width": 0.5
+        },
+        "symbol": "O",
+        "category": 2,
+        "_treeElementId": "#ember19993"
+      },
+      "definition": {
+        "id": 2,
+        "name": "Oil Production",
+        "color": "#ff0000",
+        "params": {
+          "width": 0.5
+        },
+        "symbol": "O",
+        "category": {
+          "id": 2,
+          "name": "Production"
+        },
+        "_treeElementId": "#ember19993"
+      },
+      "designName": "None",
+      "renderAs": "Standard"
+    },
+    "-MA1551S-odms4rVbJ8d": {
+      "id": "-MA1551S-odms4rVbJ8d",
+      "to": "-MA1551S-odms4rVbJ8O",
+      "from": "-MA1551S-odms4rVbJ8P",
+      "tags": [],
+      "params": {
+        "type": 2,
+        "label": "Oil Production b #9",
+        "showFlow": true,
+        "textFollowConnection": true
+      },
+      "created": "2023-10-02T09:38:24.992Z",
+      "creator": "upgrade-script",
+      "opacity": 1,
+      "visible": true,
+      "bendable": false,
+      "isLocked": false,
+      "straight": false,
+      "toSocket": "n",
+      "showLabel": true,
+      "costObject": {
+        "locked": false,
+        "entries": [],
+        "currency": "USD",
+        "costPerDay": 0,
+        "costByLength": false,
+        "costPerLengthUnit": 1
+      },
+      "designType": "None",
+      "fromSocket": "j",
+      "isInactive": false,
+      "showLength": false,
+      "subProject": "-MA1551S-odms4rVbJ8B",
+      "clonedFroms": [
+        "-La-eVGG9Racl-TNYOYJ"
+      ],
+      "renderOrder": 0,
+      "importParams": {},
+      "showMetaInfo": false,
+      "toCoordinate": {
+        "x": 502212.08786247415,
+        "y": 6666695.139802376,
+        "z": -119.03964952579243
+      },
+      "customResults": {},
+      "fromCoordinate": {
+        "x": 501997.0214948103,
+        "y": 6666651.952395913,
+        "z": -118.43197656863
+      },
+      "isValidForCost": true,
+      "noHeightSampling": false,
+      "showCustomResults": false,
+      "visualisationMaps": [],
+      "intermediaryPoints": [
+        {
+          "x": 502184.8409979052,
+          "y": 6666665.205030532,
+          "index": 0,
+          "bendParams": {
+            "radius": 10
+          }
+        }
+      ],
+      "connectionSegments": {},
+      "shapes": {},
+      "length": 230.79166422042118,
+      "metaData": [],
+      "connectionType": {
+        "id": 2,
+        "name": "Oil Production",
+        "color": "#ff0000",
+        "params": {
+          "width": 0.5
+        },
+        "symbol": "O",
+        "category": 2,
+        "_treeElementId": "#ember19993"
+      },
+      "definition": {
+        "id": 2,
+        "name": "Oil Production",
+        "color": "#ff0000",
+        "params": {
+          "width": 0.5
+        },
+        "symbol": "O",
+        "category": {
+          "id": 2,
+          "name": "Production"
+        },
+        "_treeElementId": "#ember19993"
+      },
+      "designName": "None",
+      "renderAs": "Standard"
+    },
+    "-MA1551S-odms4rVbJ8e": {
+      "id": "-MA1551S-odms4rVbJ8e",
+      "to": "-MA1551S-odms4rVbJ8L",
+      "from": "-MA1551S-odms4rVbJ8Q",
+      "tags": [],
+      "params": {
+        "type": 2,
+        "label": "Oil Production b #10",
+        "showFlow": true,
+        "textFollowConnection": true
+      },
+      "created": "2023-10-02T09:38:24.992Z",
+      "creator": "upgrade-script",
+      "opacity": 1,
+      "visible": true,
+      "bendable": false,
+      "isLocked": false,
+      "straight": false,
+      "toSocket": "a",
+      "showLabel": true,
+      "costObject": {
+        "locked": false,
+        "entries": [],
+        "currency": "USD",
+        "costPerDay": 0,
+        "costByLength": false,
+        "costPerLengthUnit": 1
+      },
+      "designType": "None",
+      "fromSocket": "d",
+      "isInactive": false,
+      "showLength": false,
+      "subProject": "-MA1551S-odms4rVbJ8B",
+      "clonedFroms": [
+        "-La-ejk4K7ttYEvgDRn_"
+      ],
+      "renderOrder": 0,
+      "importParams": {},
+      "showMetaInfo": false,
+      "toCoordinate": {
+        "x": 501994.2914282505,
+        "y": 6666696.274659577,
+        "z": -120.15772135926252
+      },
+      "customResults": {},
+      "fromCoordinate": {
+        "x": 501959.6244727377,
+        "y": 6666593.286983966,
+        "z": -118.2249947152362
+      },
+      "isValidForCost": true,
+      "noHeightSampling": false,
+      "showCustomResults": false,
+      "visualisationMaps": [],
+      "intermediaryPoints": [
+        {
+          "x": 501957.30962720886,
+          "y": 6666656.175366262,
+          "index": 0,
+          "bendParams": {
+            "radius": 10
+          }
+        },
+        {
+          "x": 501978.878807071,
+          "y": 6666688.186921539,
+          "index": 1,
+          "bendParams": {
+            "radius": 10
+          }
+        }
+      ],
+      "connectionSegments": {},
+      "shapes": {},
+      "length": 120.38363615105153,
+      "metaData": [],
+      "connectionType": {
+        "id": 2,
+        "name": "Oil Production",
+        "color": "#ff0000",
+        "params": {
+          "width": 0.5
+        },
+        "symbol": "O",
+        "category": 2,
+        "_treeElementId": "#ember19993"
+      },
+      "definition": {
+        "id": 2,
+        "name": "Oil Production",
+        "color": "#ff0000",
+        "params": {
+          "width": 0.5
+        },
+        "symbol": "O",
+        "category": {
+          "id": 2,
+          "name": "Production"
+        },
+        "_treeElementId": "#ember19993"
+      },
+      "designName": "None",
+      "renderAs": "Standard"
+    },
+    "-MA1551S-odms4rVbJ8f": {
+      "id": "-MA1551S-odms4rVbJ8f",
+      "to": "-MA1551S-odms4rVbJ8P",
+      "from": "-MA1551S-odms4rVbJ8D",
+      "tags": [],
+      "params": {
+        "type": 2,
+        "label": "Oil Production b #11",
+        "showFlow": true,
+        "textFollowConnection": true
+      },
+      "created": "2023-10-02T09:38:24.992Z",
+      "creator": "upgrade-script",
+      "opacity": 1,
+      "visible": true,
+      "bendable": false,
+      "isLocked": false,
+      "straight": false,
+      "toSocket": "o",
+      "showLabel": true,
+      "costObject": {
+        "locked": false,
+        "entries": [],
+        "currency": "USD",
+        "costPerDay": 0,
+        "costByLength": false,
+        "costPerLengthUnit": 1
+      },
+      "designType": "None",
+      "fromSocket": "b",
+      "isInactive": false,
+      "showLength": false,
+      "subProject": "-MA1551S-odms4rVbJ8B",
+      "clonedFroms": [
+        "-La-emacFUvQfs1C7aLn"
+      ],
+      "renderOrder": 0,
+      "importParams": {},
+      "showMetaInfo": false,
+      "toCoordinate": {
+        "x": 501996.7063548103,
+        "y": 6666646.562450913,
+        "z": -118.40735956863004
+      },
+      "customResults": {},
+      "fromCoordinate": {
+        "x": 501992.46924875263,
+        "y": 6666545.204194206,
+        "z": -119.89329968726898
+      },
+      "isValidForCost": true,
+      "noHeightSampling": false,
+      "showCustomResults": false,
+      "visualisationMaps": [],
+      "intermediaryPoints": [],
+      "connectionSegments": {},
+      "shapes": {},
+      "length": 102.10181865938473,
+      "metaData": [],
+      "connectionType": {
+        "id": 2,
+        "name": "Oil Production",
+        "color": "#ff0000",
+        "params": {
+          "width": 0.5
+        },
+        "symbol": "O",
+        "category": 2,
+        "_treeElementId": "#ember19993"
+      },
+      "definition": {
+        "id": 2,
+        "name": "Oil Production",
+        "color": "#ff0000",
+        "params": {
+          "width": 0.5
+        },
+        "symbol": "O",
+        "category": {
+          "id": 2,
+          "name": "Production"
+        },
+        "_treeElementId": "#ember19993"
+      },
+      "designName": "None",
+      "renderAs": "Standard"
+    },
+    "-MA1551S-odms4rVbJ8g": {
+      "id": "-MA1551S-odms4rVbJ8g",
+      "to": "-MA1551S-odms4rVbJ8O",
+      "from": "-MA1551S-odms4rVbJ8R",
+      "tags": [],
+      "params": {
+        "type": 2,
+        "label": "Oil Production b #12",
+        "showFlow": true,
+        "textFollowConnection": true,
+        "textFollowConnectionFlip": true,
+        "textFollowConnectionOffset": 0.33
+      },
+      "created": "2023-10-02T09:38:24.992Z",
+      "creator": "upgrade-script",
+      "opacity": 1,
+      "visible": true,
+      "bendable": false,
+      "isLocked": false,
+      "straight": false,
+      "toSocket": "o",
+      "showLabel": true,
+      "costObject": {
+        "locked": false,
+        "entries": [],
+        "currency": "USD",
+        "costPerDay": 0,
+        "costByLength": false,
+        "costPerLengthUnit": 1
+      },
+      "designType": "None",
+      "fromSocket": "b",
+      "isInactive": false,
+      "showLength": false,
+      "subProject": "-MA1551S-odms4rVbJ8B",
+      "clonedFroms": [
+        "-La-erhT4DgZG5Txa62E"
+      ],
+      "renderOrder": 0,
+      "importParams": {},
+      "showMetaInfo": false,
+      "toCoordinate": {
+        "x": 502214.0915394743,
+        "y": 6666695.417579383,
+        "z": -119.00419052579247
+      },
+      "customResults": {},
+      "fromCoordinate": {
+        "x": 502254.9069020126,
+        "y": 6666609.153755043,
+        "z": -120.59035011822192
+      },
+      "isValidForCost": true,
+      "noHeightSampling": false,
+      "showCustomResults": false,
+      "visualisationMaps": [],
+      "intermediaryPoints": [
+        {
+          "x": 502252.1541927719,
+          "y": 6666649.943622117,
+          "index": 0,
+          "bendParams": {
+            "radius": 10
+          }
+        },
+        {
+          "x": 502234.81623377796,
+          "y": 6666659.455496416,
+          "index": 1,
+          "bendParams": {
+            "radius": 10
+          }
+        }
+      ],
+      "connectionSegments": {},
+      "shapes": {},
+      "length": 103.54391219435632,
+      "metaData": [],
+      "connectionType": {
+        "id": 2,
+        "name": "Oil Production",
+        "color": "#ff0000",
+        "params": {
+          "width": 0.5
+        },
+        "symbol": "O",
+        "category": 2,
+        "_treeElementId": "#ember19993"
+      },
+      "definition": {
+        "id": 2,
+        "name": "Oil Production",
+        "color": "#ff0000",
+        "params": {
+          "width": 0.5
+        },
+        "symbol": "O",
+        "category": {
+          "id": 2,
+          "name": "Production"
+        },
+        "_treeElementId": "#ember19993"
+      },
+      "designName": "None",
+      "renderAs": "Standard"
+    },
+    "-MA1551S-odms4rVbJ8h": {
+      "id": "-MA1551S-odms4rVbJ8h",
+      "to": "-MA1551S-odms4rVbJ8N",
+      "from": "-MA1551S-odms4rVbJ8S",
+      "tags": [],
+      "params": {
+        "type": 2,
+        "label": "Oil Production b #13",
+        "showFlow": true,
+        "textFollowConnection": true,
+        "textFollowConnectionFlip": true,
+        "textFollowConnectionOffset": 0.33
+      },
+      "created": "2023-10-02T09:38:24.992Z",
+      "creator": "upgrade-script",
+      "opacity": 1,
+      "visible": true,
+      "bendable": false,
+      "isLocked": false,
+      "straight": false,
+      "toSocket": "a",
+      "showLabel": true,
+      "costObject": {
+        "locked": false,
+        "entries": [],
+        "currency": "USD",
+        "costPerDay": 0,
+        "costByLength": false,
+        "costPerLengthUnit": 1
+      },
+      "designType": "None",
+      "fromSocket": "b",
+      "isInactive": false,
+      "showLength": false,
+      "subProject": "-MA1551S-odms4rVbJ8B",
+      "clonedFroms": [
+        "-La-f1p2YPV28ZMQdSb1"
+      ],
+      "renderOrder": 0,
+      "importParams": {},
+      "showMetaInfo": false,
+      "toCoordinate": {
+        "x": 502122.3760268077,
+        "y": 6666782.91377611,
+        "z": -121.31523637842955
+      },
+      "customResults": {},
+      "fromCoordinate": {
+        "x": 502244.1427137144,
+        "y": 6666769.008996384,
+        "z": -119.4210754772651
+      },
+      "isValidForCost": true,
+      "noHeightSampling": false,
+      "showCustomResults": false,
+      "visualisationMaps": [],
+      "intermediaryPoints": [
+        {
+          "x": 502231.65228330006,
+          "y": 6666769.0511112325,
+          "index": 0,
+          "bendParams": {
+            "radius": 10
+          }
+        },
+        {
+          "x": 502229.05576983996,
+          "y": 6666778.062540188,
+          "index": 1,
+          "bendParams": {
+            "radius": 10
+          }
+        }
+      ],
+      "connectionSegments": {},
+      "shapes": {},
+      "length": 130.52498199875174,
+      "metaData": [],
+      "connectionType": {
+        "id": 2,
+        "name": "Oil Production",
+        "color": "#ff0000",
+        "params": {
+          "width": 0.5
+        },
+        "symbol": "O",
+        "category": 2,
+        "_treeElementId": "#ember19993"
+      },
+      "definition": {
+        "id": 2,
+        "name": "Oil Production",
+        "color": "#ff0000",
+        "params": {
+          "width": 0.5
+        },
+        "symbol": "O",
+        "category": {
+          "id": 2,
+          "name": "Production"
+        },
+        "_treeElementId": "#ember19993"
+      },
+      "designName": "None",
+      "renderAs": "Standard"
+    },
+    "-MA1551S-odms4rVbJ8i": {
+      "id": "-MA1551S-odms4rVbJ8i",
+      "to": "-MA1551S-odms4rVbJ8H",
+      "from": "-MA1551S-odms4rVbJ8M",
+      "tags": [],
+      "params": {
+        "type": 2,
+        "label": "Oil Production b #14",
+        "showFlow": true,
+        "textFollowConnection": true,
+        "textFollowConnectionFlip": true,
+        "textFollowConnectionOffset": 0.33
+      },
+      "created": "2023-10-02T09:38:24.992Z",
+      "creator": "upgrade-script",
+      "opacity": 1,
+      "visible": true,
+      "bendable": false,
+      "isLocked": false,
+      "straight": false,
+      "toSocket": "b",
+      "showLabel": true,
+      "costObject": {
+        "locked": false,
+        "entries": [],
+        "currency": "USD",
+        "costPerDay": 0,
+        "costByLength": false,
+        "costPerLengthUnit": 1
+      },
+      "designType": "None",
+      "fromSocket": "e",
+      "isInactive": false,
+      "showLength": false,
+      "subProject": "-MA1551S-odms4rVbJ8B",
+      "clonedFroms": [
+        "-La-fBwlzOLCHVItRFRN"
+      ],
+      "renderOrder": 0,
+      "importParams": {},
+      "showMetaInfo": false,
+      "toCoordinate": {
+        "x": 501944.7321483443,
+        "y": 6666738.989415783,
+        "z": -119.67005443297569
+      },
+      "customResults": {},
+      "fromCoordinate": {
+        "x": 502124.5388548285,
+        "y": 6666706.055811124,
+        "z": -118.83932886433402
+      },
+      "isValidForCost": true,
+      "noHeightSampling": false,
+      "showCustomResults": false,
+      "visualisationMaps": [],
+      "intermediaryPoints": [],
+      "connectionSegments": {},
+      "shapes": {},
+      "length": 183.4818334654333,
+      "metaData": [],
+      "connectionType": {
+        "id": 2,
+        "name": "Oil Production",
+        "color": "#ff0000",
+        "params": {
+          "width": 0.5
+        },
+        "symbol": "O",
+        "category": 2,
+        "_treeElementId": "#ember19993"
+      },
+      "definition": {
+        "id": 2,
+        "name": "Oil Production",
+        "color": "#ff0000",
+        "params": {
+          "width": 0.5
+        },
+        "symbol": "O",
+        "category": {
+          "id": 2,
+          "name": "Production"
+        },
+        "_treeElementId": "#ember19993"
+      },
+      "designName": "None",
+      "renderAs": "Standard"
+    },
+    "-MA1551S-odms4rVbJ8j": {
+      "id": "-MA1551S-odms4rVbJ8j",
+      "to": "-MA1551S-odms4rVbJ8J",
+      "from": "-MA1551S-odms4rVbJ8F",
+      "tags": [],
+      "params": {
+        "type": 2,
+        "label": "Oil Production b #15",
+        "showFlow": true,
+        "textFollowConnection": true,
+        "textFollowConnectionFlip": true,
+        "textFollowConnectionOffset": 0.33
+      },
+      "created": "2023-10-02T09:38:24.992Z",
+      "creator": "upgrade-script",
+      "opacity": 1,
+      "visible": true,
+      "bendable": false,
+      "isLocked": false,
+      "straight": false,
+      "toSocket": "c",
+      "showLabel": true,
+      "costObject": {
+        "locked": false,
+        "entries": [],
+        "currency": "USD",
+        "costPerDay": 0,
+        "costByLength": false,
+        "costPerLengthUnit": 1
+      },
+      "designType": "None",
+      "fromSocket": "g",
+      "isInactive": false,
+      "showLength": false,
+      "subProject": "-MA1551S-odms4rVbJ8B",
+      "clonedFroms": [
+        "-La-fmYELctdLDrMKfiu"
+      ],
+      "renderOrder": 0,
+      "importParams": {},
+      "showMetaInfo": false,
+      "toCoordinate": {
+        "x": 501776.0703841829,
+        "y": 6666606.950118844,
+        "z": -118.09744133603418
+      },
+      "customResults": {},
+      "fromCoordinate": {
+        "x": 501903.0965009643,
+        "y": 6666585.715592027,
+        "z": -118.13339697594785
+      },
+      "isValidForCost": true,
+      "noHeightSampling": false,
+      "showCustomResults": false,
+      "visualisationMaps": [],
+      "intermediaryPoints": [],
+      "connectionSegments": {},
+      "shapes": {},
+      "length": 129.6616888843416,
+      "metaData": [],
+      "connectionType": {
+        "id": 2,
+        "name": "Oil Production",
+        "color": "#ff0000",
+        "params": {
+          "width": 0.5
+        },
+        "symbol": "O",
+        "category": 2,
+        "_treeElementId": "#ember19993"
+      },
+      "definition": {
+        "id": 2,
+        "name": "Oil Production",
+        "color": "#ff0000",
+        "params": {
+          "width": 0.5
+        },
+        "symbol": "O",
+        "category": {
+          "id": 2,
+          "name": "Production"
+        },
+        "_treeElementId": "#ember19993"
+      },
+      "designName": "None",
+      "renderAs": "Standard"
+    },
+    "-MA1551S-odms4rVbJ8k": {
+      "id": "-MA1551S-odms4rVbJ8k",
+      "to": "-MA1551S-odms4rVbJ8T",
+      "from": "-MA1551S-odms4rVbJ8U",
+      "tags": [],
+      "params": {
+        "type": 2,
+        "label": "Oil Production b #16",
+        "showFlow": true,
+        "textFollowConnection": true
+      },
+      "created": "2023-10-02T09:38:24.992Z",
+      "creator": "upgrade-script",
+      "opacity": 1,
+      "visible": true,
+      "bendable": false,
+      "isLocked": false,
+      "straight": false,
+      "toSocket": "a",
+      "showLabel": true,
+      "costObject": {
+        "locked": false,
+        "entries": [],
+        "currency": "USD",
+        "costPerDay": 0,
+        "costByLength": false,
+        "costPerLengthUnit": 1
+      },
+      "designType": "None",
+      "fromSocket": "b",
+      "isInactive": false,
+      "showLength": false,
+      "subProject": "-MA1551S-odms4rVbJ8B",
+      "clonedFroms": [
+        "-La-lEoMBE7BPZVaySk_"
+      ],
+      "renderOrder": 0,
+      "importParams": {},
+      "showMetaInfo": false,
+      "toCoordinate": {
+        "x": 503547.7602770084,
+        "y": 6666890.667485845,
+        "z": -125.31162686178544
+      },
+      "customResults": {},
+      "fromCoordinate": {
+        "x": 503604.50729072874,
+        "y": 6666906.251260979,
+        "z": -125.52944418539786
+      },
+      "isValidForCost": true,
+      "noHeightSampling": false,
+      "showCustomResults": false,
+      "visualisationMaps": [],
+      "intermediaryPoints": [
+        {
+          "x": 503553.6124858183,
+          "y": 6666904.090424276,
+          "index": 0,
+          "bendParams": {
+            "radius": 10
+          }
+        },
+        {
+          "x": 503548.119221,
+          "y": 6666896.796089002,
+          "index": 1,
+          "bendParams": {
+            "radius": 10
+          }
+        }
+      ],
+      "connectionSegments": {},
+      "shapes": {},
+      "length": 66.7622590191295,
+      "metaData": [],
+      "connectionType": {
+        "id": 2,
+        "name": "Oil Production",
+        "color": "#ff0000",
+        "params": {
+          "width": 0.5
+        },
+        "symbol": "O",
+        "category": 2,
+        "_treeElementId": "#ember19993"
+      },
+      "definition": {
+        "id": 2,
+        "name": "Oil Production",
+        "color": "#ff0000",
+        "params": {
+          "width": 0.5
+        },
+        "symbol": "O",
+        "category": {
+          "id": 2,
+          "name": "Production"
+        },
+        "_treeElementId": "#ember19993"
+      },
+      "designName": "None",
+      "renderAs": "Standard"
+    },
+    "-MA1551S-odms4rVbJ8l": {
+      "id": "-MA1551S-odms4rVbJ8l",
+      "to": "-MA1551S-odms4rVbJ8T",
+      "from": "-MA1551S-odms4rVbJ8V",
+      "tags": [],
+      "params": {
+        "type": 2,
+        "label": "Oil Production b #17",
+        "showFlow": true,
+        "textFollowConnection": true
+      },
+      "created": "2023-10-02T09:38:24.992Z",
+      "creator": "upgrade-script",
+      "opacity": 1,
+      "visible": true,
+      "bendable": false,
+      "isLocked": false,
+      "straight": false,
+      "toSocket": "b",
+      "showLabel": true,
+      "costObject": {
+        "locked": false,
+        "entries": [],
+        "currency": "USD",
+        "costPerDay": 0,
+        "costByLength": false,
+        "costPerLengthUnit": 1
+      },
+      "designType": "None",
+      "fromSocket": "a",
+      "isInactive": false,
+      "showLength": false,
+      "subProject": "-MA1551S-odms4rVbJ8B",
+      "clonedFroms": [
+        "-La-lVK7did2OU-HRcK6"
+      ],
+      "renderOrder": 0,
+      "importParams": {},
+      "showMetaInfo": false,
+      "toCoordinate": {
+        "x": 503548.23409200844,
+        "y": 6666883.697260843,
+        "z": -125.31162286178547
+      },
+      "customResults": {},
+      "fromCoordinate": {
+        "x": 503548.7024983391,
+        "y": 6666858.168607561,
+        "z": -124.79570214625168
+      },
+      "isValidForCost": true,
+      "noHeightSampling": false,
+      "showCustomResults": false,
+      "visualisationMaps": [],
+      "intermediaryPoints": [],
+      "connectionSegments": {},
+      "shapes": {},
+      "length": 25.71390435032274,
+      "metaData": [],
+      "connectionType": {
+        "id": 2,
+        "name": "Oil Production",
+        "color": "#ff0000",
+        "params": {
+          "width": 0.5
+        },
+        "symbol": "O",
+        "category": 2,
+        "_treeElementId": "#ember19993"
+      },
+      "definition": {
+        "id": 2,
+        "name": "Oil Production",
+        "color": "#ff0000",
+        "params": {
+          "width": 0.5
+        },
+        "symbol": "O",
+        "category": {
+          "id": 2,
+          "name": "Production"
+        },
+        "_treeElementId": "#ember19993"
+      },
+      "designName": "None",
+      "renderAs": "Standard"
+    },
+    "-MA1551S-odms4rVbJ8m": {
+      "id": "-MA1551S-odms4rVbJ8m",
+      "to": "-MA1551S-odms4rVbJ8I",
+      "from": "-MA1551S-odms4rVbJ8K",
+      "tags": [],
+      "params": {
+        "type": 1,
+        "label": "Umbilical #1",
+        "showFlow": true,
+        "textFollowConnection": true
+      },
+      "created": "2020-06-17T11:43:26.296Z",
+      "creator": "chameleon@fieldap.com",
+      "opacity": 1,
+      "visible": true,
+      "bendable": false,
+      "isLocked": false,
+      "straight": false,
+      "toSocket": "b",
+      "showLabel": false,
+      "costObject": {
+        "currency": "USD",
+        "costByLength": false
+      },
+      "designType": "None",
+      "fromSocket": "b",
+      "isInactive": false,
+      "showLength": false,
+      "subProject": "-MA1551S-odms4rVbJ8B",
+      "clonedFroms": [
+        "-MA14oL3NxJyeaAwlT4q"
+      ],
+      "renderOrder": 0,
+      "importParams": {},
+      "showMetaInfo": false,
+      "toCoordinate": {
+        "x": 501759.8970726918,
+        "y": 6666710.462430844,
+        "z": -119.79785372400114
+      },
+      "customResults": {},
+      "fromCoordinate": {
+        "x": 501674.9778259725,
+        "y": 6666757.983844054,
+        "z": -120.77362837614305
+      },
+      "isValidForCost": true,
+      "noHeightSampling": false,
+      "showCustomResults": false,
+      "visualisationMaps": [],
+      "intermediaryPoints": [],
+      "connectionSegments": {},
+      "shapes": {},
+      "length": 97.56796446723965,
+      "metaData": [],
+      "connectionType": {
+        "id": 1,
+        "name": "Umbilical",
+        "color": "#2C2F34",
+        "params": {
+          "width": 0.5
+        },
+        "symbol": "U",
+        "category": 1,
+        "_treeElementId": "#ember20085"
+      },
+      "definition": {
+        "id": 1,
+        "name": "Umbilical",
+        "color": "#2C2F34",
+        "params": {
+          "width": 0.5
+        },
+        "symbol": "U",
+        "category": {
+          "id": 1,
+          "name": "Umbilical"
+        },
+        "_treeElementId": "#ember20085"
+      },
+      "designName": "None",
+      "renderAs": "Standard"
+    },
+    "-MA1551S-odms4rVbJ8n": {
+      "id": "-MA1551S-odms4rVbJ8n",
+      "to": "-MA1551S-odms4rVbJ8K",
+      "from": "-MA1551S-odms4rVbJ8E",
+      "tags": [],
+      "params": {
+        "type": 1,
+        "label": "Umbilical #2",
+        "showFlow": true,
+        "textFollowConnection": true
+      },
+      "created": "2020-06-17T11:43:32.665Z",
+      "creator": "chameleon@fieldap.com",
+      "opacity": 1,
+      "visible": true,
+      "bendable": false,
+      "isLocked": false,
+      "straight": false,
+      "toSocket": "a",
+      "showLabel": false,
+      "costObject": {
+        "currency": "USD",
+        "costByLength": false
+      },
+      "designType": "None",
+      "fromSocket": "a",
+      "isInactive": false,
+      "showLength": false,
+      "subProject": "-MA1551S-odms4rVbJ8B",
+      "clonedFroms": [
+        "-MA14pWr-9-6uUL5lX9l"
+      ],
+      "renderOrder": 0,
+      "importParams": {},
+      "showMetaInfo": false,
+      "toCoordinate": {
+        "x": 501665.5035845835,
+        "y": 6666751.867001952,
+        "z": -120.75337138182152
+      },
+      "customResults": {},
+      "fromCoordinate": {
+        "x": 501763.4501685908,
+        "y": 6666658.600971801,
+        "z": -119.72360961426061
+      },
+      "isValidForCost": true,
+      "noHeightSampling": false,
+      "showCustomResults": false,
+      "visualisationMaps": [],
+      "intermediaryPoints": [],
+      "connectionSegments": {},
+      "shapes": {},
+      "length": 135.3798338011826,
+      "metaData": [],
+      "connectionType": {
+        "id": 1,
+        "name": "Umbilical",
+        "color": "#2C2F34",
+        "params": {
+          "width": 0.5
+        },
+        "symbol": "U",
+        "category": 1,
+        "_treeElementId": "#ember20085"
+      },
+      "definition": {
+        "id": 1,
+        "name": "Umbilical",
+        "color": "#2C2F34",
+        "params": {
+          "width": 0.5
+        },
+        "symbol": "U",
+        "category": {
+          "id": 1,
+          "name": "Umbilical"
+        },
+        "_treeElementId": "#ember20085"
+      },
+      "designName": "None",
+      "renderAs": "Standard"
+    }
+  },
+  "customCosts": {},
+  "layers": {
+    "-MA1551S-odms4rVbJ8C": {
+      "x": 0,
+      "y": 0,
+      "z": 0,
+      "id": "-MA1551S-odms4rVbJ8C",
+      "url": "https://storage.googleapis.com/ft-qa-master-bucket/heightmaps/generic/50ff652e485f-noaka_pointcloud_bathy_5m_xyz?GoogleAccessId=ft-qa-master-jsonapi%40fieldapp-qa.iam.gserviceaccount.com&Expires=1698329223&Signature=kcrffKZ36oAwUNmTUsfQkq8g2FdMaBp96IdKSxaQW63fy7nnzD8%2BZtxwWszAF%2BbrC59Jio49DhcSAWX5WEyrgj8Oi4QZ4qIlaYsftRgXqxXYizGGdRXcGDn3BOGupfyQE7EXKUyo6PdUpCY5toTc6FEtlgwAr8gW54P2lkE%2Bw%2BpPqywrlx02drU2ilspuQKE3zOzov6PUwOYyNY%2FTjJ%2BFqEPdttwaATV%2BRQ0qRr9deZITsqwpisvgO%2FiE69GEU9F3IBU28u9FDBHvB9tZtbSoIYQaD4HUEcBqMUyxRoFk%2F5LHVcgAfsBUJH%2Fs5X9LPJ8Rb7eNtnZB6V9PuBbAkGcbw%3D%3D",
+      "name": "NOAKA_POINTCLOUD_BATHY_5M.xyz",
+      "isMET": false,
+      "isWMS": false,
+      "isXVB": true,
+      "scale": 1,
+      "width": 0,
+      "height": 0,
+      "created": "2023-10-02T09:38:13.603Z",
+      "creator": "upgrade-script",
+      "opacity": 1,
+      "visible": true,
+      "isArcGIS": false,
+      "isGeoLoc": true,
+      "isLocked": false,
+      "rotation": 0,
+      "isGradient": false,
+      "isInactive": false,
+      "subProject": "-MA1551S-odms4rVbJ8B",
+      "clonedFroms": [
+        "-L_wZk-hc564H84Wy-rQ"
+      ],
+      "seabedColor": "#777",
+      "heightSample": true,
+      "isBathymetry": true,
+      "urlNormalMap": "https://storage.googleapis.com/ft-qa-master-bucket/heightmaps/generic/50ff652e485f-noaka_pointcloud_bathy_5m_xyz.normal.png?GoogleAccessId=ft-qa-master-jsonapi%40fieldapp-qa.iam.gserviceaccount.com&Expires=1698329223&Signature=n%2B%2F1rMMy1zGbCVRbb%2FLhUdP%2BAIa2Tr64cGV6zVXVK0XoIFJwP02k739A1pahUVMHnea6AeP6AWhCShVsFlmKNGJ%2BdiWNWWciZYsKEeS4KxJ6w8NDBb4E50wXFcDZgwXz%2Bt%2BmfY6VHXmwr7KY7KhuCM3%2B41fu%2F%2F1db5aae5TQrTyujEAYuWuBWwjtMHvXdxSJE1srWyn3wjSm05511K%2FycD6KX5FNUi1XtnuAdDquBd3t4K5WEle%2F%2BYiU7Y9kE5rckZQQvabbv4MUTw%2BlKlZ0LG1cV74Y62OcVF3ZLeWvBvKKe8rzvn15JOBTmMl7fNJe67lNdoKg26HbghImsix6Ng%3D%3D",
+      "contourParams": {
+        "count": 10,
+        "render": false
+      },
+      "useSeabedColor": false,
+      "gradientPalette": [],
+      "METConfiguration": {},
+      "wmsConfiguration": {},
+      "geoLocBoundingBox": {
+        "max_x": 534945.1875,
+        "max_y": 6722616.5,
+        "max_z": -84.22606658935547,
+        "min_x": 406015.1875,
+        "min_y": 6587781.5,
+        "min_z": -321.4197998046875
+      },
+      "seaBedTextureName": "",
+      "arcgisConfiguration": {},
+      "metaData": [],
+      "processingState": 202
+    }
+  },
+  "wells": {},
+  "ports": {},
+  "overlays": {},
+  "shapes": {},
+  "bookmarks": {},
+  "documents": {},
+  "connectionTypes": [
+    {
+      "id": 1,
+      "name": "Umbilical",
+      "color": "#2C2F34",
+      "params": {
+        "width": 0.5
+      },
+      "symbol": "U",
+      "category": 1,
+      "_treeElementId": "#ember20085"
+    },
+    {
+      "id": 2,
+      "name": "Oil Production",
+      "color": "#ff0000",
+      "params": {
+        "width": 0.5
+      },
+      "symbol": "O",
+      "category": 2,
+      "_treeElementId": "#ember19993"
+    },
+    {
+      "id": 4,
+      "name": "Water Injection",
+      "color": "#00adf3",
+      "params": {
+        "width": 0.5
+      },
+      "symbol": "WI",
+      "category": 4
+    },
+    {
+      "id": 8,
+      "name": "Gas Injection",
+      "color": "#51379f",
+      "params": {
+        "width": 0.5
+      },
+      "symbol": "GI",
+      "category": 8
+    },
+    {
+      "id": 16,
+      "name": "Gas Lift",
+      "color": "#00ae50",
+      "params": {
+        "width": 0.5
+      },
+      "symbol": "GL",
+      "category": 16
+    },
+    {
+      "id": 32,
+      "name": "Electrical Lead",
+      "color": "#777",
+      "params": {
+        "width": 0.5
+      },
+      "symbol": "E",
+      "category": 32
+    },
+    {
+      "id": 64,
+      "name": "Hydraulic Lead",
+      "color": "#fcf800",
+      "params": {
+        "width": 0.5
+      },
+      "symbol": "H",
+      "category": 64
+    },
+    {
+      "id": 128,
+      "name": "MEG",
+      "color": "#3e261a",
+      "params": {
+        "width": 0.5
+      },
+      "symbol": "M",
+      "category": 128
+    }
+  ],
+  "layerSeaBedLevel": -321.4197998046875,
+  "coordinateUnits": "m",
+  "coordinateUnitsToMeter": 1,
+  "coordinateUnitsFromMeter": 1
+}

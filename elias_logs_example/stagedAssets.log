@@ -1,0 +1,182 @@
+stagedAssets log:
+{
+  "-MA1551S-odms4rVbJ8D": {
+    "id": "-MA1551S-odms4rVbJ8D",
+    "name": "SSIV #1",
+    "connectionsAsFrom": {
+      "-MA1551S-odms4rVbJ8f": true
+    },
+    "connectionsAsTo": {
+      "-MA1551S-odms4rVbJ8W": true
+    }
+  },
+  "-MA1551S-odms4rVbJ8E": {
+    "id": "-MA1551S-odms4rVbJ8E",
+    "name": "SSIV #2",
+    "connectionsAsFrom": {
+      "-MA1551S-odms4rVbJ8W": true,
+      "-MA1551S-odms4rVbJ8n": true
+    },
+    "connectionsAsTo": {}
+  },
+  "-MA1551S-odms4rVbJ8F": {
+    "id": "-MA1551S-odms4rVbJ8F",
+    "name": "Manifold #1",
+    "connectionsAsFrom": {
+      "-MA1551S-odms4rVbJ8j": true
+    },
+    "connectionsAsTo": {
+      "-MA1551S-odms4rVbJ8X": true
+    }
+  },
+  "-MA1551S-odms4rVbJ8G": {
+    "id": "-MA1551S-odms4rVbJ8G",
+    "name": "PLET double #1",
+    "connectionsAsFrom": {
+      "-MA1551S-odms4rVbJ8X": true
+    },
+    "connectionsAsTo": {
+      "-MA1551S-odms4rVbJ8Y": true
+    }
+  },
+  "-MA1551S-odms4rVbJ8H": {
+    "id": "-MA1551S-odms4rVbJ8H",
+    "name": "Inline-T #1",
+    "connectionsAsFrom": {
+      "-MA1551S-odms4rVbJ8Y": true,
+      "-MA1551S-odms4rVbJ8Z": true
+    },
+    "connectionsAsTo": {
+      "-MA1551S-odms4rVbJ8i": true
+    }
+  },
+  "-MA1551S-odms4rVbJ8I": {
+    "id": "-MA1551S-odms4rVbJ8I",
+    "name": "SSIV #3",
+    "connectionsAsFrom": {},
+    "connectionsAsTo": {
+      "-MA1551S-odms4rVbJ8Z": true,
+      "-MA1551S-odms4rVbJ8m": true
+    }
+  },
+  "-MA1551S-odms4rVbJ8J": {
+    "id": "-MA1551S-odms4rVbJ8J",
+    "name": "Pump #1",
+    "connectionsAsFrom": {},
+    "connectionsAsTo": {
+      "-MA1551S-odms4rVbJ8j": true
+    }
+  },
+  "-MA1551S-odms4rVbJ8K": {
+    "id": "-MA1551S-odms4rVbJ8K",
+    "name": "Jacket-rig #1",
+    "connectionsAsFrom": {
+      "-MA1551S-odms4rVbJ8m": true
+    },
+    "connectionsAsTo": {
+      "-MA1551S-odms4rVbJ8n": true
+    }
+  },
+  "-MA1551S-odms4rVbJ8L": {
+    "id": "-MA1551S-odms4rVbJ8L",
+    "name": "SSIV #4",
+    "connectionsAsFrom": {
+      "-MA1551S-odms4rVbJ8_": true
+    },
+    "connectionsAsTo": {
+      "-MA1551S-odms4rVbJ8e": true
+    }
+  },
+  "-MA1551S-odms4rVbJ8M": {
+    "id": "-MA1551S-odms4rVbJ8M",
+    "name": "Manifold #2",
+    "connectionsAsFrom": {
+      "-MA1551S-odms4rVbJ8a": true,
+      "-MA1551S-odms4rVbJ8b": true,
+      "-MA1551S-odms4rVbJ8i": true
+    },
+    "connectionsAsTo": {
+      "-MA1551S-odms4rVbJ8_": true,
+      "-MA1551S-odms4rVbJ8c": true
+    }
+  },
+  "-MA1551S-odms4rVbJ8N": {
+    "id": "-MA1551S-odms4rVbJ8N",
+    "name": "Inline-T #2",
+    "connectionsAsFrom": {},
+    "connectionsAsTo": {
+      "-MA1551S-odms4rVbJ8a": true,
+      "-MA1551S-odms4rVbJ8h": true
+    }
+  },
+  "-MA1551S-odms4rVbJ8O": {
+    "id": "-MA1551S-odms4rVbJ8O",
+    "name": "Manifold #3",
+    "connectionsAsFrom": {},
+    "connectionsAsTo": {
+      "-MA1551S-odms4rVbJ8b": true,
+      "-MA1551S-odms4rVbJ8d": true,
+      "-MA1551S-odms4rVbJ8g": true
+    }
+  },
+  "-MA1551S-odms4rVbJ8P": {
+    "id": "-MA1551S-odms4rVbJ8P",
+    "name": "Manifold #4",
+    "connectionsAsFrom": {
+      "-MA1551S-odms4rVbJ8c": true,
+      "-MA1551S-odms4rVbJ8d": true
+    },
+    "connectionsAsTo": {
+      "-MA1551S-odms4rVbJ8f": true
+    }
+  },
+  "-MA1551S-odms4rVbJ8Q": {
+    "id": "-MA1551S-odms4rVbJ8Q",
+    "name": "Manifold #5",
+    "connectionsAsFrom": {
+      "-MA1551S-odms4rVbJ8e": true
+    },
+    "connectionsAsTo": {}
+  },
+  "-MA1551S-odms4rVbJ8R": {
+    "id": "-MA1551S-odms4rVbJ8R",
+    "name": "Plem #1",
+    "connectionsAsFrom": {
+      "-MA1551S-odms4rVbJ8g": true
+    },
+    "connectionsAsTo": {}
+  },
+  "-MA1551S-odms4rVbJ8S": {
+    "id": "-MA1551S-odms4rVbJ8S",
+    "name": "XMT deep water #1",
+    "connectionsAsFrom": {
+      "-MA1551S-odms4rVbJ8h": true
+    },
+    "connectionsAsTo": {}
+  },
+  "-MA1551S-odms4rVbJ8T": {
+    "id": "-MA1551S-odms4rVbJ8T",
+    "name": "PLET double #2",
+    "connectionsAsFrom": {},
+    "connectionsAsTo": {
+      "-MA1551S-odms4rVbJ8k": true,
+      "-MA1551S-odms4rVbJ8l": true
+    }
+  },
+  "-MA1551S-odms4rVbJ8U": {
+    "id": "-MA1551S-odms4rVbJ8U",
+    "name": "PLET single #1",
+    "connectionsAsFrom": {
+      "-MA1551S-odms4rVbJ8k": true
+    },
+    "connectionsAsTo": {}
+  },
+  "-MA1551S-odms4rVbJ8V": {
+    "id": "-MA1551S-odms4rVbJ8V",
+    "name": "SSIV #5",
+    "connectionsAsFrom": {
+      "-MA1551S-odms4rVbJ8l": true
+    },
+    "connectionsAsTo": {}
+  }
+}
