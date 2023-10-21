@@ -11,7 +11,7 @@ async function logDataToFile(logger, data, logName) {
 }
 
 // Function to fetch data and log it, handling errors
-async function fetchDataAndLog(projectId, subProjectId) {
+async function fetchData(projectId, subProjectId) {
   try {
     const fieldData = await getFieldData(projectId, subProjectId);
     return fieldData;
@@ -26,7 +26,7 @@ async function main() {
   const subProjectId = process.env.SUB_PROJECT_ID;
 
   // Fetch and log the field data
-  const fieldData = await fetchDataAndLog(projectId, subProjectId);
+  const fieldData = await fetchData(projectId, subProjectId);
 
   // Check if data was successfully fetched
   if (fieldData) {
