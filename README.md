@@ -8,7 +8,6 @@ This repository contains a solution for the FutureOn Code Test, which focuses on
 - [Project Structure](#project-structure)
 - [Usage](#usage)
 - [Dependencies](#dependencies)
-- [Thoughts and Questions](#thoughts-and-questions)
 
 ## Code Test Description
 
@@ -102,12 +101,3 @@ I found the code test to be a valuable exercise in working with a complex data s
 
 3. **Finding Paths**: The final step was to find all possible paths starting from a specified staged asset. I went online and did some reading on graph and found that utilizing a Depth-First Search (DFS) approach and leveraging recursion would be the best way to find all possible paths.
 
-While going over the retrieved data, I have noticed that the `stagedAssets` `ids` are in alphabetical order D -> V and that `connections` `ids` ending with (a, b, c, w, x, y, z) are not staged.
-
-### Questions and Challenges Faced
-
-- I was not sure if the example path given "-MA1551S-odms4rVbJ8K > -MA1551S-odms4rVbJ8n > -MA1551S-odms4rVbJ8E > etc" was a correct path. I used this example as a base while trying to manual build the path but each time I got lost. That's why I am not sure if my solution for part 2 and 3 are correct.
-
-- Visualisation of the data was a bit challenging, I have tried to use the jpeg image provided to help me visualize the paths but it was still difficult and bit confusing. Even for the provided link, I was not able to figure out how to use it. [View Link](https://master-presenter.futureon-qa.fieldtwin.com/-MIIeS15P3gFMIAd8cBC)
-
-- I did not send an email and ask questions because I though that not that much time have gone since I started working on it yesterday. I thought that I should try to figure it out on my own and if I get stuck I will send an email. I hope that was the right thing to do.
